@@ -15,6 +15,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [Official Resources](#official-resources)
 - [Community](#community)
 - [Development Tools](#development-tools)
+- [FAQ](#faq)
 - [Publications](#publications)
   - [Videos](#videos)
   - [Tutorials](#tutorials)
@@ -22,11 +23,13 @@ Your contributions and suggestions are heartily welcome. =^.^=
   - [Blogs](#blogs)
 - [Examples](#examples)
   - [Public projects using MobX](#public-projects-using-mobx)
+  - [Real-life examples](#real-life-examples)
   - [Example projects](#example-projects)
   - [Code example projects on codesandbox.io](#code-example-projects-on-codesandboxio)
 - [Boilerplates](#boilerplates)
 - [Projects Using MobX](#projects-using-mobx)
-- [Related projects](#related-projects)
+- [Related projects and utilities](#related-projects-and-utilities)
+  - [Model libraries](#model-libraries)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -43,6 +46,11 @@ Your contributions and suggestions are heartily welcome. =^.^=
 ### Development Tools
 
 - [Mobx-React-Devtools](https://github.com/mobxjs/mobx-react-devtools)
+- [MobX Formatters](https://github.com/motion/mobx-formatters)
+
+### FAQ
+
+- [Importing store directly or pass as props?](https://github.com/mobxjs/mobx/issues/300)
 
 ### Publications
 
@@ -59,6 +67,10 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - Magic MobX, [RuhrJS 2016](https://www.youtube.com/watch?v=TfxfRkNCnmk) ([slides](http://magixmobx.surge.sh) and [more slides](https://docs.google.com/presentation/d/1d54mSxF0VOAFlsUGM8eonZDs9gZecTOz1ErSbnydChQ/edit?usp=sharing))
 - [Spacedojo Show - Reactive Programming with Mobx](https://www.youtube.com/watch?v=QTptEw2cYt0&feature=youtu.be&a)
 - [The Quest For Immer Mutable Data, Reactive2016 conf](https://youtu.be/1Urj4TZ5BLI?t=5h27m40s) ([slides](http://immer-mutable-state.surge.sh/#1))
+- [Next generation state management - Michel Weststrate, ReactEurope 2017](https://www.youtube.com/watch?v=rwqwwn_46kA)
+- [Complexity: Divide and Conquer! - Michel Weststrate, React Amsterdam 2017](https://www.youtube.com/watch?v=3J9EJrvqOiM&list=TLGG8kFs45xUMH0xMjA2MjAxNw)
+- Angular. MobX. Happiness ([slides](https://www.slideshare.net/500Tech/angular-mobx-happiness
+) only)
 
 #### Tutorials
 - [Ten minute interactive introduction to MobX and React](https://mobxjs.github.io/mobx/getting-started.html#demo)
@@ -74,6 +86,13 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [Getting Started ReactJS with MobX](https://codequs.com/p/HyTu8aIK/getting-started-reactjs-with-mobx/)
 - [Redux vs. MobX by example — Part II: The Simplicity of MobX & Conclusion](https://hashnode.com/post/redux-vs-mobx-by-example-part-ii-the-simplicity-of-mobx-and-conclusion-citpp2tbu003za853ua1tx228) - A two part tutorial, comparing Redux and MobX, by implementing them in a simple ES6 + React todo app.
 - [Using Mobx + Firebase to build a Twitter Clone](https://appendto.com/2017/03/mobx-firebase-create-a-twitter-clone-with-simple-state-management-database/) - Tutorial shows how to build a simple Twitter clone with syncing to Firebase. Useful for working with Mobx + Firebase.
+- [How to remove experimentalDecorators warning in VSCode](https://ihatetomatoes.net/how-to-remove-experimentaldecorators-warning-in-vscode)
+- [React State Management with MobX](https://www.codemy.net/posts/react-state-management-with-mobx)
+- [React + MobX + YAWP!](http://yawp.io/blog/2017/01/31/react-mobx-yawp)
+- [Adding MobX to a vanilla React project](https://swizec.com/blog/livecoding-25-adding-mobx-vanilla-react-project/swizec/7170?utm_content=buffer92a0d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) A recap of a livecoding session in which the author explains the process of adding MobX to a vanilla React project
+- [How to Manage Your JavaScript Application State with MobX](https://www.sitepoint.com/manage-javascript-application-state-mobx/)
+- [Introduction to Data Binding with MobX](https://appendto.com/2017/01/introduction-to-data-binding-with-mobx/)
+- [Build an Imgur Client with React Native and MobX tutorial](https://school.shoutem.com/lectures/build-simple-imgur-client-react-native-mobx-tutorial/)
 
 #### Articles / blogs explaining the inner working of MobX
 
@@ -114,6 +133,17 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [Videolog: integrate MobX with Firebase](https://www.youtube.com/watch?v=MMQH9vxbzRw&feature=youtu.be&a)
 - [React form validation with MobX](https://medium.com/@KozhukharenkoN/react-form-validation-with-mobx-8ce00233ae27#.d8biky8cv)
 - [MobX Recipes - A collection of lessons learned and useful patterns using MobX](https://alexhisen.gitbooks.io/mobx-recipes/content/)
+- [TDD with MobX](http://engineering.pivotal.io/post/tdd-mobx/)
+- [MobX: a Redux alternative you should consider](https://logbook.hanno.co/mobx-redux-alternative/?utm_campaign=coschedule&utm_source=twitter&utm_medium=wearehanno&utm_content=MobX:%20a%20Redux%20alternative%20you%20should%20consider)
+- [Next.js meets Firebase and MobX](https://blog.mvp-space.com/next-js-meets-firebase-and-mobx-b3ae90d5b879)
+- [Redux or MobX: What I learned after refactoring a medium-sized React app](https://dannyherran.com/2017/03/react-redux-mobx-takeaways/?utm_campaign=crowdfire&utm_content=crowdfire&utm_medium=social&utm_source=twitter)
+- [A simple introduction to state management with MobX in React Native](https://blog.uncommon.is/a-simple-introduction-to-state-management-with-mobx-in-react-native-ed749aa2b5d7)
+- [An artificial example where MobX really shines and Redux is not really suited for it](https://hackernoon.com/an-artificial-example-where-mobx-really-shines-and-redux-is-not-really-suited-for-it-1a58313c0c70)
+- [If not Redux then what?](https://hackernoon.com/if-not-redux-then-what-fc433234f5b4)
+- [Effective MobX patterns](https://blog.pixelingene.com/2016/10/effective-mobx-patterns-part-1/)
+- [MobX - Like React, but for Data](http://danielearwicker.github.io/MobX_Like_React_but_for_Data.html)
+- [Universal React Rendering: How We Rebuilt SitePoint](https://www.sitepoint.com/universal-react-rendering-sitepoint/?utm_content=buffer7905c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [Scattered Thoughts on MobX](https://gist.github.com/thomasboyt/8cda9c533802a36ee6aac4559c4799b1)
 
 ### Examples
 
@@ -127,6 +157,12 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [Google Play Music Desktop Remote](https://github.com/GPMDP/google-play-music-desktop-remote) A React-Native app for remote controlling Google Play Music Desktop: MobX + WebSocket.
 - [PokemonGo webspoof](https://github.com/iam4x/pokemongo-webspoof/) Play PokemonGo on your Mac
 - [vcash-electron](https://github.com/whphhg/vcash-electron) - Electron UI for the Vcash crypto currency
+
+#### Real-life examples
+
+- [react-transmission](https://github.com/fcsonline/react-transmission)
+- [Lionshare](https://github.com/lionsharecapital)
+- [PICSrush](http://picsrush.com/app/)
 
 #### Example projects
 
@@ -155,6 +191,11 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [A simple Tetris using React + MobX](https://github.com/1984weed/mobx-react-tetris)
 - [React Native + Mobx sample app](https://github.com/winterbe/RNTimerExample)
 - [TypeScript + MobX](https://github.com/dimafeng/typescript-react-mobx-template)
+- [React MobX RealWorld example app](https://github.com/gothinkster/react-mobx-realworld-example-app)
+- [Next.js with MobX](https://github.com/zeit/next.js/tree/master/examples/with-mobx)
+- [TypeScript example graphics editor: baltar](https://github.com/danielearwicker/baltar)
+- [A social mobile messaging marketplace app using React Native, Firebase, Mobx, CodePush, OneSignal](https://jsapp.me/a-social-mobile-messaging-marketplace-app-using-react-native-firebase-mobx-codepush-onesignal-fad105e70fc1) (code available on [GitHub](https://github.com/jsappme/react-native-firebase-starter))
+- [Architecture for a very light MobX project](https://github.com/danieldunderfelt/mobx-app)
 
 #### Code example projects on codesandbox.io
 
@@ -193,8 +234,11 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [spfx-react-mobx-webpart-starter](https://github.com/kmees/spfx-react-mobx-webpart-starter) A react & mobx powered spfx webpart
 - [rn_mobx_temmplate](https://github.com/hiaw/rn_mobx_template) React Native with MobX template
 - [ng-mobx](https://github.com/500tech/ng-mobx) MobX connector for AngularJS (aka Angular 1.x)
-- [ng2-mobx](https://github.com/500tech/ng2-mobx) MobX connector for Angular (aka Angular 2+)
+- [ng2-mobx](https://github.com/500tech/ng2-mobx) MobX connector for Angular (aka Angular 2+) ([npm](https://www.npmjs.com/package/ng2-mobx))
 - [starhack.it](http://www.starhack.it) A full stack starter kit
+- [cra-mobx-reactrouter](https://github.com/timarney/cra-mobx-reactrouter) Craft Template - MobX + React Router
+- [react-mobx-react-router4-boilerplate](https://github.com/mhaagens/react-mobx-react-router4-boilerplate) React MobX React-Router 4 Boilerplate
+- [rn_mobx_template](https://github.com/hiaw/rn_mobx_template) React Native with MobX boilerplate
 
 ### Projects Using MobX
 
@@ -223,7 +267,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 | [GaeaEditor](https://github.com/ascoders/gaea-editor) | A scalable web page editor. | ![image](https://cloud.githubusercontent.com/assets/7970947/20998372/45014efa-bd48-11e6-8387-a0a4768b0be1.png) |
 
 
-### Related projects
+### Related projects and utilities
 
 - [MobX react bindings](https://github.com/mobxjs/mobx-react)
 - [MobX react devtools](https://github.com/mobxjs/mobx-react-devtools)
@@ -264,3 +308,19 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [mobx-persist](https://github.com/pinqy520/mobx-persist) create and persist mobx stores
 - [gwt-mobx](https://github.com/GWTReact/gwt-mobx) GWT Java bindings for MobX
 - [mobx-app](https://github.com/danieldunderfelt/mobx-app) A functional structure for mobx
+- [offramp](https://github.com/elefanty/offramp) Simple routing for your single page applications
+- [mobx-location](https://www.npmjs.com/package/mobx-location) Location as a mobx observable
+- [mobx-server-wait](https://github.com/ueno-llc/mobx-server-wait) Render universally with server wait mobx actions
+- [mobx-observer](https://github.com/capaj/mobx-observer) An observer decorator and factory for all your react-like components
+- [computed-async-mobx](https://github.com/danielearwicker/computed-async-mobx/) Define a `computed` by returning a `Promise`
+- [mobx-decorators](https://github.com/farwayer/mobx-decorators) Several helper MobX decorators (setter, observe, save, ...)
+- [mobx-bind](https://github.com/jamiewinder/mobx-bind) Utility library for binding MobX observables and observable collections to generic entities
+- [mobase](https://github.com/rasdaniil/mobase) Firebase-MobX adapter (a no-painer) ([Gitbook](https://rasdaniil.gitbooks.io/mobase/content/))
+
+#### Model libraries
+
+- [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree/) Opinionated, transactional, MobX powered state container
+
+- [json-mobx](https://github.com/danielearwicker/json-mobx) Simple undo/redo and persistence for MobX
+- [libx](https://github.com/jeffijoe/libx) Collection + Model infrastructure for MobX applications
+- [openui5-mobx-model](ttps://github.com/geekflyer/openui5-mobx-model) SAP OpenUI5 bindings for MobX, with an added [in-depth article on the project](https://blogs.sap.com/2017/01/30/advanced-state-management-in-sapui5-via-mobx/?utm_source=dlvr.it&utm_medium=twitter)
