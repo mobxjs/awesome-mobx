@@ -57,6 +57,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 
 - [Mobx-React-Devtools](https://github.com/mobxjs/mobx-react-devtools)
 - [MobX Formatters](https://github.com/motion/mobx-formatters)
+- [React Ecosystem Snippets](https://marketplace.visualstudio.com/items?itemName=adamrackis.react-ecosystem-snippets) with MobX and TypeScript included
 
 ### FAQ
 
@@ -65,6 +66,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 ### Publications
 
 #### Videos
+
 - [Egghead.io course: Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
 - LearnCode.academy MobX tutorial [Part I: MobX + React is AWESOME (7m)](https://www.youtube.com/watch?v=_q50BXqkAfI) [Part II: Computed Values and Nested/Referenced Observables (12m.)](https://www.youtube.com/watch?v=nYvNqKrl69s)
 - [React Foundation + MobX Video Series from Codemy.net (youtube playlist)](https://www.youtube.com/playlist?list=PLjQo0sojbbxU6Yl9l-38gOyeQYjqXefq7)
@@ -83,6 +85,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 ) only)
 
 #### Tutorials
+
 - [Ten minute interactive introduction to MobX and React](https://mobxjs.github.io/mobx/getting-started.html#demo)
 - [Simple ES5 MobX examples](https://github.com/mattruby/mobx-examples) Bite sized MobX examples all setup to run in jsFiddle.
 - [It's all about time: Building a performant Stopwatch with MobX and React - fast](https://onsen.io/blog/mobx-tutorial-react-stopwatch/)
@@ -101,6 +104,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [How to Manage Your JavaScript Application State with MobX](https://www.sitepoint.com/manage-javascript-application-state-mobx/)
 - [Introduction to Data Binding with MobX](https://appendto.com/2017/01/introduction-to-data-binding-with-mobx/)
 - [Build an Imgur Client with React Native and MobX tutorial](https://school.shoutem.com/lectures/build-simple-imgur-client-react-native-mobx-tutorial/)
+- [Introduction to MobX with React](https://orlandohamsho.com/javascript/introduction-mobx-react/)
 
 #### Articles / blogs explaining the inner working of MobX
 
@@ -258,7 +262,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [MobX inferno bindings](https://www.npmjs.com/package/inferno-mobx)
 - For Preact the [preact-compat](https://github.com/developit/preact-compat) module + mobx-react can be used.
 - [react-native-mobx](https://github.com/aksonov/react-native-mobx) Make your app reactive with MobX and react-native-router-flux
-- Staff pick: [mobx-react-form](https://foxhound87.github.io/mobx-react-form/docs/devtools.html) Build forms and validate them using json-schema rules
+- Staff pick: [mobx-react-form](https://foxhound87.github.io/mobx-react-form) Build forms and validate them using json-schema rules
 - [mobx-form-store](https://github.com/alexhisen/mobx-form-store) + [mobx-schema-form](https://github.com/alexhisen/mobx-schema-form) Loosely-coupled components for managing, rendering and validating forms in MobX-based apps
 - [mobx-input](https://github.com/tomaash/mobx-input) Form validation for MobX and react-bootstrap.
 - [Form abstraction in one fiddle](https://jsfiddle.net/darthapo/k63ujjsp/)
