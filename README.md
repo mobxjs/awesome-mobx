@@ -8,6 +8,13 @@ A collection of awesome things regarding MobX.
 
 Your contributions and suggestions are heartily welcome. =^.^=
 
+
+### Key materials
+
+- [How to use MobX with Create React App](https://swizec.com/blog/mobx-with-create-react-app/swizec/7158)
+- [Useful Real-life examples](#real-life-examples)
+- MobX TodoList sandbox for bug reporting [![Edit Simple MobX TodoList](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/2vmzpM0wK)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
@@ -21,15 +28,16 @@ Your contributions and suggestions are heartily welcome. =^.^=
   - [Tutorials](#tutorials)
   - [Articles / blogs explaining the inner working of MobX](#articles--blogs-explaining-the-inner-working-of-mobx)
   - [Blogs](#blogs)
+  - [Comparisons with other state management libraries](#comparisons-with-other-state-management-libraries)
 - [Examples](#examples)
   - [Public projects using MobX](#public-projects-using-mobx)
   - [Real-life examples](#real-life-examples)
   - [Example projects](#example-projects)
   - [Code example projects on codesandbox.io](#code-example-projects-on-codesandboxio)
 - [Boilerplates](#boilerplates)
-- [Projects Using MobX](#projects-using-mobx)
 - [Related projects and utilities](#related-projects-and-utilities)
   - [Model libraries](#model-libraries)
+- [Projects Using MobX](#projects-using-mobx)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -80,11 +88,9 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [How to Test React and MobX with Jest](https://semaphoreci.com/community/tutorials/how-to-test-react-and-mobx-with-jest?utm_content=buffer15b42&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Real time Chat App with OnsenUI, Horizon and MobX](http://tutorials.pluralsight.com/html-css/real-time-chat-app-with-onsenui-and-horizon?hearted=1)
 - [React Native With MobX - Getting Started](https://medium.com/@dabit3/react-native-with-mobx-getting-started-ba7e18d8ff44#.uge82y49s)
-- [From Redux to MobX Refactor in a SoundCloud Client](http://www.robinwieruch.de/mobx-react/): How to convert the SoundCloud Client from React+Redux to React+MobX.
 - [Introducing serializr: serializing and deserializing object graphs with ease](https://medium.com/@mweststrate/introducing-serializr-serializing-and-deserializing-object-graphs-with-ease-8833c3fcea02#.lghi3ybjm)
 - [How to decouple state and UI (a.k.a. you don’t need componentWillMount) - data fetching, authentication, routing and testing](https://medium.com/@mweststrate/how-to-decouple-state-and-ui-a-k-a-you-dont-need-componentwillmount-cc90b787aa37#.7zvpxt746)
 - [Getting Started ReactJS with MobX](https://codequs.com/p/HyTu8aIK/getting-started-reactjs-with-mobx/)
-- [Redux vs. MobX by example — Part II: The Simplicity of MobX & Conclusion](https://hashnode.com/post/redux-vs-mobx-by-example-part-ii-the-simplicity-of-mobx-and-conclusion-citpp2tbu003za853ua1tx228) - A two part tutorial, comparing Redux and MobX, by implementing them in a simple ES6 + React todo app.
 - [Using Mobx + Firebase to build a Twitter Clone](https://appendto.com/2017/03/mobx-firebase-create-a-twitter-clone-with-simple-state-management-database/) - Tutorial shows how to build a simple Twitter clone with syncing to Firebase. Useful for working with Mobx + Firebase.
 - [How to remove experimentalDecorators warning in VSCode](https://ihatetomatoes.net/how-to-remove-experimentaldecorators-warning-in-vscode)
 - [React State Management with MobX](https://www.codemy.net/posts/react-state-management-with-mobx)
@@ -101,10 +107,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 
 #### Blogs
 
-- [Why we chose MobX over Redux for Spectacle Editor](http://formidable.com/blog/2016/06/02/why-we-chose-mobx-over-redux-for-spectacle-editor/)
-- [Redux or MobX: An attempt to dissolve the Confusion](https://www.robinwieruch.de/redux-mobx-confusion/)
 - [Optimising React rendering - tips to optimise rendering of a set of elements in React](https://medium.com/@lavrton/how-to-optimise-rendering-of-a-set-of-elements-in-react-ad01f5b161ae#.ijw98ktg5)
-- [A MobX introduction and case study](https://blog.wearewizards.io/a-mobx-introduction-and-case-study)
 - [How to Manage Your JavaScript Application State with MobX](https://www.sitepoint.com/manage-javascript-application-state-mobx/)
 - [Handling React Forms with Mobx Observables](https://blog.risingstack.com/handling-react-forms-with-mobx-observables/)
 - [mobx-utils: community driven utility belt for MobX](https://medium.com/@mweststrate/mobx-utils-community-driven-utility-belt-for-mobx-264346cb2744#.n8cweziy9)
@@ -114,10 +117,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [Simple MobX-driven modals](https://swizec.com/blog/simple-mobx-driven-modals/swizec/7166)
 - [Livecoding #25: Adding MobX to a vanilla React project](https://swizec.com/blog/livecoding-25-adding-mobx-vanilla-react-project/swizec/7170?utm_content=buffer92a0d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Creating a multi-page form using MobX with Meteor & React](http://markshust.com/2016/06/02/creating-multi-page-form-using-mobx-meteor-react)
-- [Effective MobX patterns (Part 1)](https://blog.pixelingene.com/2016/10/effective-mobx-patterns-part-1/)
-- [Effective MobX Patterns (Part 2)](https://blog.pixelingene.com/2016/10/effective-mobx-patterns-part-2/)
-- [Effective MobX Patterns (Part 3)](https://blog.pixelingene.com/2016/10/effective-mobx-patterns-part-3/)
-- [If not Redux then what?](https://medium.com/@sanketsahu/if-not-redux-then-what-fc433234f5b4#.xid2z4oon)
+- Effective MobX patterns (Parts [1](https://blog.pixelingene.com/2016/10/effective-mobx-patterns-part-1/), [2](https://blog.pixelingene.com/2016/10/effective-mobx-patterns-part-2/), [3](https://blog.pixelingene.com/2016/10/effective-mobx-patterns-part-3/))
 - [State Management & Hydration with MobX  —  We must React [Ep. 05]](https://medium.com/@foxhound87/state-management-hydration-with-mobx-we-must-react-ep-05-1922a72453c6#.gbzf4e7nb)
 - [Enjoying MobX, JSX and virtual-dom. Without React!](https://medium.com/@botverse/enjoying-mobx-jsx-and-virtual-dom-621dcc2a2bd5#.3xoj3b1kg)
 - [SurviveJS interview on MobX, React and Flux](http://survivejs.com/blog/mobx-interview/)
@@ -134,16 +134,25 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [React form validation with MobX](https://medium.com/@KozhukharenkoN/react-form-validation-with-mobx-8ce00233ae27#.d8biky8cv)
 - [MobX Recipes - A collection of lessons learned and useful patterns using MobX](https://alexhisen.gitbooks.io/mobx-recipes/content/)
 - [TDD with MobX](http://engineering.pivotal.io/post/tdd-mobx/)
-- [MobX: a Redux alternative you should consider](https://logbook.hanno.co/mobx-redux-alternative/?utm_campaign=coschedule&utm_source=twitter&utm_medium=wearehanno&utm_content=MobX:%20a%20Redux%20alternative%20you%20should%20consider)
 - [Next.js meets Firebase and MobX](https://blog.mvp-space.com/next-js-meets-firebase-and-mobx-b3ae90d5b879)
-- [Redux or MobX: What I learned after refactoring a medium-sized React app](https://dannyherran.com/2017/03/react-redux-mobx-takeaways/?utm_campaign=crowdfire&utm_content=crowdfire&utm_medium=social&utm_source=twitter)
 - [A simple introduction to state management with MobX in React Native](https://blog.uncommon.is/a-simple-introduction-to-state-management-with-mobx-in-react-native-ed749aa2b5d7)
-- [An artificial example where MobX really shines and Redux is not really suited for it](https://hackernoon.com/an-artificial-example-where-mobx-really-shines-and-redux-is-not-really-suited-for-it-1a58313c0c70)
-- [If not Redux then what?](https://hackernoon.com/if-not-redux-then-what-fc433234f5b4)
 - [Effective MobX patterns](https://blog.pixelingene.com/2016/10/effective-mobx-patterns-part-1/)
 - [MobX - Like React, but for Data](http://danielearwicker.github.io/MobX_Like_React_but_for_Data.html)
 - [Universal React Rendering: How We Rebuilt SitePoint](https://www.sitepoint.com/universal-react-rendering-sitepoint/?utm_content=buffer7905c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Scattered Thoughts on MobX](https://gist.github.com/thomasboyt/8cda9c533802a36ee6aac4559c4799b1)
+- [A MobX introduction and case study](https://blog.wearewizards.io/a-mobx-introduction-and-case-study)
+
+#### Comparisons with other state management libraries
+
+- [If not Redux then what?](https://medium.com/@sanketsahu/if-not-redux-then-what-fc433234f5b4#.xid2z4oon)
+- [From Redux to MobX Refactor in a SoundCloud Client](http://www.robinwieruch.de/mobx-react/): How to convert the SoundCloud Client from React+Redux to React+MobX.
+- [Redux vs. MobX by example — Part II: The Simplicity of MobX & Conclusion](https://hashnode.com/post/redux-vs-mobx-by-example-part-ii-the-simplicity-of-mobx-and-conclusion-citpp2tbu003za853ua1tx228) - A two part tutorial, comparing Redux and MobX, by implementing them in a simple ES6 + React todo app.
+- [Why we chose MobX over Redux for Spectacle Editor](http://formidable.com/blog/2016/06/02/why-we-chose-mobx-over-redux-for-spectacle-editor/)
+- [Redux or MobX: An attempt to dissolve the Confusion](https://www.robinwieruch.de/redux-mobx-confusion/)
+- [MobX: a Redux alternative you should consider](https://logbook.hanno.co/mobx-redux-alternative/?utm_campaign=coschedule&utm_source=twitter&utm_medium=wearehanno&utm_content=MobX:%20a%20Redux%20alternative%20you%20should%20consider)
+- [Redux or MobX: What I learned after refactoring a medium-sized React app](https://dannyherran.com/2017/03/react-redux-mobx-takeaways/?utm_campaign=crowdfire&utm_content=crowdfire&utm_medium=social&utm_source=twitter)
+- [If not Redux then what?](https://hackernoon.com/if-not-redux-then-what-fc433234f5b4)
+- [An artificial example where MobX really shines and Redux is not really suited for it](https://hackernoon.com/an-artificial-example-where-mobx-really-shines-and-redux-is-not-really-suited-for-it-1a58313c0c70)
 
 ### Examples
 
@@ -240,37 +249,9 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [react-mobx-react-router4-boilerplate](https://github.com/mhaagens/react-mobx-react-router4-boilerplate) React MobX React-Router 4 Boilerplate
 - [rn_mobx_template](https://github.com/hiaw/rn_mobx_template) React Native with MobX boilerplate
 
-### Projects Using MobX
-
-|  Project   | Information    | Logo |
-|:--------|:---------------|:-------------|
-| [Mendix](https://www.mendix.com/) | Application studio to build enterprise grade administrative applications in a WYSIWIG manner + SDK for third party integrators with our backend  | ![image](https://cloud.githubusercontent.com/assets/1820292/20537504/af8f0cd8-b0ed-11e6-9b7e-cbd0b8847f27.png) |
-| [Forward Exp](http://www.forward-hkg.com/en.html) | International Freight Forwarder (mostly Ocean Freight Container Shipments) | ![image](http://www.forward-hkg.com/img/Forward_logo_400_square.png)  |
-| [Coinbase](https://www.coinbase.com) | Leading bitcoin brokerage platform |  ![image](https://cloud.githubusercontent.com/assets/31465/20540254/5cca3db4-b0ad-11e6-9947-f5c402fe24a1.png) |
-| [Productive Edge](http://www.productiveedge.com/) | Digital Consultancy (Web, Mobile and Software Development Firm) | ![image](https://cloud.githubusercontent.com/assets/6715628/20547056/938d012e-b12a-11e6-9c3b-f31b77ddc056.png) |
-| [2M2.RU](https://2m2.ru) | Russian real-estate classifieds website. | ![image](https://cloud.githubusercontent.com/assets/3222948/20552988/43092a0a-b172-11e6-984f-ae6d8e04550c.png) |
-| [Encodo](http://www.encodo.com) | – | ![image](http://encodo.com/assets/images/encodo_logo_without_text.png)
-| [Infinum](https://infinum.co) | Independent design & development agency. | ![image](https://cloud.githubusercontent.com/assets/480290/20555483/a60c2c7a-b162-11e6-9b29-f24948ec0c48.png) |
-| [TipRanks](https://www.tipranks.com) | Evaluates public stock recommendations made by ﬁnancial analysts and financial bloggers, then ranks those experts based on their accuracy and performance. | ![image](https://www.tipranks.com/new-images/home3/logo.png)
-| [itiden](https://itiden.se) | - | ![image](https://itiden.se/logo.gif) |
-|  [Ontario Institute for Cancer Research](https://oicr.on.ca/) | UI for [the DCC Submission System](https://github.com/icgc-dcc/dcc-submission/tree/develop/dcc-submission-ui) and [the Cancer Collaboratory Billing Dashboard](https://github.com/CancerCollaboratory/billing/tree/develop/billing-ui)| ![image](https://cloud.githubusercontent.com/assets/743976/20588840/50e1b22c-b1e6-11e6-8aa1-87a382a4bc34.png) |
-| [Pondus](http://www.pondus.de/) | The software networks internal and external databases and systems, makes them accessible to all departments and optimizes the workflows in the publishing house. | ![image](https://cloud.githubusercontent.com/assets/485033/20597131/55e0e764-b242-11e6-80cc-88f301449713.png) |
-| [Strikersoft](https://strikersoft.com) | – | ![image](https://cloud.githubusercontent.com/assets/13982649/20604475/410b14ae-b26f-11e6-951e-600a0130f3dd.png) |
-| [Nuclino](https://www.nuclino.com) | The fastest way to capture, share, and organize knowledge. | ![image](https://cloud.githubusercontent.com/assets/152507/20617642/e71f0f3c-b2ea-11e6-8786-da42265cafc6.png) |
-| [Mercateo](http://www.mercateo.com/corporate/) | The e-procurement platform for business customers | ![image](https://cloud.githubusercontent.com/assets/1152805/20624631/4cfeb406-b30e-11e6-9c50-e2c4f38269a4.png) |
-| [Room & Board](http://www.roomandboard.com/) | – | ![image](https://cloud.githubusercontent.com/assets/142194/20780085/4b147b38-b73e-11e6-9b51-da5c56b6b644.png) |
-| [Trillionaire](http://www.huiseoul.com/) | Building a conversational E-commerce app | ![image](https://cloud.githubusercontent.com/assets/2437909/20780588/778bfe1c-b7bf-11e6-9ad7-b5a277ef1212.png) |
-| [PatientBank](https://www.patientbank.us) | Request medical records in Online. | ![image](https://cloud.githubusercontent.com/assets/3156043/20780896/b4d1aca4-b733-11e6-8066-195df5d13d18.png) |
-| RIKEN Center for Life Science Technologies (CLST)  | [Project χ](https://github.com/Hypercubed/Project-Chi), [Project χ Datapackage](https://github.com/Hypercubed/chi-datapackage) – a modular open-source toolkit for building web and electron data visualization applications | ![image](https://cloud.githubusercontent.com/assets/509946/20782099/f16c126a-b7cb-11e6-8300-3add1dec3273.png) |
-| [Nosy](https://nosy.chat) | Stick your nose into other people's conversations. 10k LOC | ![image](https://cloud.githubusercontent.com/assets/699733/20816557/c29d9dd0-b7d7-11e6-9bce-b5ea3172e2ba.png) |
-| [Cypress.io](https://www.cypress.io) | Developer Tool for testing with open source [code](https://github.com/cypress-io/cypress). | ![image](https://raw.githubusercontent.com/cypress-io/cypress-core-icons/master/src/logo/cypress-io-logo.png) |
-| [GaeaEditor](https://github.com/ascoders/gaea-editor) | A scalable web page editor. | ![image](https://cloud.githubusercontent.com/assets/7970947/20998372/45014efa-bd48-11e6-8387-a0a4768b0be1.png) |
-
-
 ### Related projects and utilities
 
 - [MobX react bindings](https://github.com/mobxjs/mobx-react)
-- [MobX react devtools](https://github.com/mobxjs/mobx-react-devtools)
 - [MobX remotedev: Use the Redux Devtools with MobX](https://github.com/zalmoxisus/mobx-remotedev)
 - [MobX inferno bindings](https://www.npmjs.com/package/mobx-inferno)
 - [MobX deku bindings](https://github.com/micnews/mobx-deku)
@@ -320,7 +301,32 @@ Your contributions and suggestions are heartily welcome. =^.^=
 #### Model libraries
 
 - [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree/) Opinionated, transactional, MobX powered state container
-
 - [json-mobx](https://github.com/danielearwicker/json-mobx) Simple undo/redo and persistence for MobX
 - [libx](https://github.com/jeffijoe/libx) Collection + Model infrastructure for MobX applications
 - [openui5-mobx-model](ttps://github.com/geekflyer/openui5-mobx-model) SAP OpenUI5 bindings for MobX, with an added [in-depth article on the project](https://blogs.sap.com/2017/01/30/advanced-state-management-in-sapui5-via-mobx/?utm_source=dlvr.it&utm_medium=twitter)
+
+### Projects Using MobX
+
+|  Project   | Information    | Logo |
+|:--------|:---------------|:-------------|
+| [Mendix](https://www.mendix.com/) | Application studio to build enterprise grade administrative applications in a WYSIWIG manner + SDK for third party integrators with our backend  | ![image](https://cloud.githubusercontent.com/assets/1820292/20537504/af8f0cd8-b0ed-11e6-9b7e-cbd0b8847f27.png) |
+| [Forward Exp](http://www.forward-hkg.com/en.html) | International Freight Forwarder (mostly Ocean Freight Container Shipments) | ![image](http://www.forward-hkg.com/img/Forward_logo_400_square.png)  |
+| [Coinbase](https://www.coinbase.com) | Leading bitcoin brokerage platform |  ![image](https://cloud.githubusercontent.com/assets/31465/20540254/5cca3db4-b0ad-11e6-9947-f5c402fe24a1.png) |
+| [Productive Edge](http://www.productiveedge.com/) | Digital Consultancy (Web, Mobile and Software Development Firm) | ![image](https://cloud.githubusercontent.com/assets/6715628/20547056/938d012e-b12a-11e6-9c3b-f31b77ddc056.png) |
+| [2M2.RU](https://2m2.ru) | Russian real-estate classifieds website. | ![image](https://cloud.githubusercontent.com/assets/3222948/20552988/43092a0a-b172-11e6-984f-ae6d8e04550c.png) |
+| [Encodo](http://www.encodo.com) | – | ![image](http://encodo.com/assets/images/encodo_logo_without_text.png)
+| [Infinum](https://infinum.co) | Independent design & development agency. | ![image](https://cloud.githubusercontent.com/assets/480290/20555483/a60c2c7a-b162-11e6-9b29-f24948ec0c48.png) |
+| [TipRanks](https://www.tipranks.com) | Evaluates public stock recommendations made by ﬁnancial analysts and financial bloggers, then ranks those experts based on their accuracy and performance. | ![image](https://www.tipranks.com/new-images/home3/logo.png)
+| [itiden](https://itiden.se) | - | ![image](https://itiden.se/logo.gif) |
+|  [Ontario Institute for Cancer Research](https://oicr.on.ca/) | UI for [the DCC Submission System](https://github.com/icgc-dcc/dcc-submission/tree/develop/dcc-submission-ui) and [the Cancer Collaboratory Billing Dashboard](https://github.com/CancerCollaboratory/billing/tree/develop/billing-ui)| ![image](https://cloud.githubusercontent.com/assets/743976/20588840/50e1b22c-b1e6-11e6-8aa1-87a382a4bc34.png) |
+| [Pondus](http://www.pondus.de/) | The software networks internal and external databases and systems, makes them accessible to all departments and optimizes the workflows in the publishing house. | ![image](https://cloud.githubusercontent.com/assets/485033/20597131/55e0e764-b242-11e6-80cc-88f301449713.png) |
+| [Strikersoft](https://strikersoft.com) | – | ![image](https://cloud.githubusercontent.com/assets/13982649/20604475/410b14ae-b26f-11e6-951e-600a0130f3dd.png) |
+| [Nuclino](https://www.nuclino.com) | The fastest way to capture, share, and organize knowledge. | ![image](https://cloud.githubusercontent.com/assets/152507/20617642/e71f0f3c-b2ea-11e6-8786-da42265cafc6.png) |
+| [Mercateo](http://www.mercateo.com/corporate/) | The e-procurement platform for business customers | ![image](https://cloud.githubusercontent.com/assets/1152805/20624631/4cfeb406-b30e-11e6-9c50-e2c4f38269a4.png) |
+| [Room & Board](http://www.roomandboard.com/) | – | ![image](https://cloud.githubusercontent.com/assets/142194/20780085/4b147b38-b73e-11e6-9b51-da5c56b6b644.png) |
+| [Trillionaire](http://www.huiseoul.com/) | Building a conversational E-commerce app | ![image](https://cloud.githubusercontent.com/assets/2437909/20780588/778bfe1c-b7bf-11e6-9ad7-b5a277ef1212.png) |
+| [PatientBank](https://www.patientbank.us) | Request medical records in Online. | ![image](https://cloud.githubusercontent.com/assets/3156043/20780896/b4d1aca4-b733-11e6-8066-195df5d13d18.png) |
+| RIKEN Center for Life Science Technologies (CLST)  | [Project χ](https://github.com/Hypercubed/Project-Chi), [Project χ Datapackage](https://github.com/Hypercubed/chi-datapackage) – a modular open-source toolkit for building web and electron data visualization applications | ![image](https://cloud.githubusercontent.com/assets/509946/20782099/f16c126a-b7cb-11e6-8300-3add1dec3273.png) |
+| [Nosy](https://nosy.chat) | Stick your nose into other people's conversations. 10k LOC | ![image](https://cloud.githubusercontent.com/assets/699733/20816557/c29d9dd0-b7d7-11e6-9bce-b5ea3172e2ba.png) |
+| [Cypress.io](https://www.cypress.io) | Developer Tool for testing with open source [code](https://github.com/cypress-io/cypress). | ![image](https://raw.githubusercontent.com/cypress-io/cypress-core-icons/master/src/logo/cypress-io-logo.png) |
+| [GaeaEditor](https://github.com/ascoders/gaea-editor) | A scalable web page editor. | ![image](https://cloud.githubusercontent.com/assets/7970947/20998372/45014efa-bd48-11e6-8387-a0a4768b0be1.png) |
