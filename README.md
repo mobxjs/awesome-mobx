@@ -15,6 +15,8 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [Useful Real-life examples](#real-life-examples)
 - MobX TodoList sandbox for bug reporting [![Edit Simple MobX TodoList](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/2vmzpM0wK)
 
+
+### Table of Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
