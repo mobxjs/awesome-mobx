@@ -58,6 +58,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [Mobx-React-Devtools](https://github.com/mobxjs/mobx-react-devtools)
 - [MobX Formatters](https://github.com/motion/mobx-formatters)
 - [React Ecosystem Snippets](https://marketplace.visualstudio.com/items?itemName=adamrackis.react-ecosystem-snippets) with MobX and TypeScript included
+- [Delorean](https://github.com/BrascoJS/delorean), A MobX-React Time Travel Debugger
 
 ### FAQ
 
