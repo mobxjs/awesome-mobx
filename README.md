@@ -324,3 +324,6 @@ Your contributions and suggestions are heartily welcome. =^.^=
 | [Nosy](https://nosy.chat) | Stick your nose into other people's conversations. 10k LOC | ![image](https://cloud.githubusercontent.com/assets/699733/20816557/c29d9dd0-b7d7-11e6-9bce-b5ea3172e2ba.png) |
 | [Cypress.io](https://www.cypress.io) | Developer Tool for testing with open source [code](https://github.com/cypress-io/cypress). | ![image](https://raw.githubusercontent.com/cypress-io/cypress-core-icons/master/src/logo/cypress-io-logo.png) |
 | [GaeaEditor](https://github.com/ascoders/gaea-editor) | A scalable web page editor. | ![image](https://cloud.githubusercontent.com/assets/7970947/20998372/45014efa-bd48-11e6-8387-a0a4768b0be1.png) |
+| [ClaraWorld](https://www.claraworld.net) | Learning programming has never been this much fun! | ![image](https://user-images.githubusercontent.com/2682705/27326479-dd46b906-55ab-11e7-838e-33562452adc9.png) |
+
+
