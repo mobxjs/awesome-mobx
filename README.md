@@ -158,7 +158,6 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [Redux or MobX: An attempt to dissolve the Confusion](https://www.robinwieruch.de/redux-mobx-confusion/)
 - [MobX: a Redux alternative you should consider](https://logbook.hanno.co/mobx-redux-alternative/?utm_campaign=coschedule&utm_source=twitter&utm_medium=wearehanno&utm_content=MobX:%20a%20Redux%20alternative%20you%20should%20consider)
 - [Redux or MobX: What I learned after refactoring a medium-sized React app](https://dannyherran.com/2017/03/react-redux-mobx-takeaways/?utm_campaign=crowdfire&utm_content=crowdfire&utm_medium=social&utm_source=twitter)
-- [If not Redux then what?](https://hackernoon.com/if-not-redux-then-what-fc433234f5b4)
 - [An artificial example where MobX really shines and Redux is not really suited for it](https://hackernoon.com/an-artificial-example-where-mobx-really-shines-and-redux-is-not-really-suited-for-it-1a58313c0c70)
 
 ### Examples
