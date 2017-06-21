@@ -297,7 +297,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree/) Opinionated, transactional, MobX powered state container
 - [json-mobx](https://github.com/danielearwicker/json-mobx) Simple undo/redo and persistence for MobX
 - [libx](https://github.com/jeffijoe/libx) Collection + Model infrastructure for MobX applications
-- [openui5-mobx-model](ttps://github.com/geekflyer/openui5-mobx-model) SAP OpenUI5 bindings for MobX, with an added [in-depth article on the project](https://blogs.sap.com/2017/01/30/advanced-state-management-in-sapui5-via-mobx/?utm_source=dlvr.it&utm_medium=twitter)
+- [openui5-mobx-model](https://github.com/geekflyer/openui5-mobx-model) SAP OpenUI5 bindings for MobX, with an added [in-depth article on the project](https://blogs.sap.com/2017/01/30/advanced-state-management-in-sapui5-via-mobx/?utm_source=dlvr.it&utm_medium=twitter)
 - [mobx-collection-store](https://github.com/infinum/mobx-collection-store/) Data collection store for MobX
 - [mobx-jsonapi-store](https://github.com/infinum/mobx-jsonapi-store/) JSON API specific data store
 
