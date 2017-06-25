@@ -106,6 +106,8 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [Introduction to Data Binding with MobX](https://appendto.com/2017/01/introduction-to-data-binding-with-mobx/)
 - [Build an Imgur Client with React Native and MobX tutorial](https://school.shoutem.com/lectures/build-simple-imgur-client-react-native-mobx-tutorial/)
 - [Introduction to MobX with React](https://orlandohamsho.com/javascript/introduction-mobx-react/)
+- [MobX + React Tutorial: Building your first app](https://orlandohamsho.com/javascript/mobx-react-tutorial-building-first-application/)
+- [(Paid) React Native: Building Mobile Apps](https://www.lynda.com/React-Native-tutorials/React-Native-Building-Mobile-Apps/547379-2.html). Uses Firebase for authentication and storage, and MobX for state management
 
 #### Articles / blogs explaining the inner working of MobX
 
@@ -147,7 +149,12 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [MobX - Like React, but for Data](http://danielearwicker.github.io/MobX_Like_React_but_for_Data.html)
 - [Universal React Rendering: How We Rebuilt SitePoint](https://www.sitepoint.com/universal-react-rendering-sitepoint/?utm_content=buffer7905c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Scattered Thoughts on MobX](https://gist.github.com/thomasboyt/8cda9c533802a36ee6aac4559c4799b1)
+- [Announcing LogRocket for MobX](https://blog.logrocket.com/announcing-logrocket-for-mobx-a9b65d8e6ed7)
+
+#### Case studies
+
 - [A MobX introduction and case study](https://blog.wearewizards.io/a-mobx-introduction-and-case-study)
+- [Rebuilding the Guest List Manager with React + MobX at The Knot](https://tech.xogrp.com/rebuilding-the-guest-list-manager-with-react-mobx-at-the-knot-e34e32920571)
 
 #### Comparisons with other state management libraries
 
@@ -290,6 +297,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [mobx-decorators](https://github.com/farwayer/mobx-decorators) Several helper MobX decorators (setter, observe, save, ...)
 - [mobx-bind](https://github.com/jamiewinder/mobx-bind) Utility library for binding MobX observables and observable collections to generic entities
 - [mobase](https://github.com/rasdaniil/mobase) Firebase-MobX adapter (a no-painer) ([Gitbook](https://rasdaniil.gitbooks.io/mobase/content/))
+- [react-mobx-router5](https://www.npmjs.com/package/react-mobx-router5)
 
 #### Model libraries
 
@@ -326,5 +334,3 @@ Your contributions and suggestions are heartily welcome. =^.^=
 | [Cypress.io](https://www.cypress.io) | Developer Tool for testing with open source [code](https://github.com/cypress-io/cypress). | ![image](https://raw.githubusercontent.com/cypress-io/cypress-core-icons/master/src/logo/cypress-io-logo.png) |
 | [GaeaEditor](https://github.com/ascoders/gaea-editor) | A scalable web page editor. | ![image](https://cloud.githubusercontent.com/assets/7970947/20998372/45014efa-bd48-11e6-8387-a0a4768b0be1.png) |
 | [ClaraWorld](https://www.claraworld.net) | Learning programming has never been this much fun! | ![image](https://user-images.githubusercontent.com/2682705/27326479-dd46b906-55ab-11e7-838e-33562452adc9.png) |
-
-
