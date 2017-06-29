@@ -82,8 +82,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [The Quest For Immer Mutable Data, Reactive2016 conf](https://youtu.be/1Urj4TZ5BLI?t=5h27m40s) ([slides](http://immer-mutable-state.surge.sh/#1))
 - [Next generation state management - Michel Weststrate, ReactEurope 2017](https://www.youtube.com/watch?v=rwqwwn_46kA)
 - [Complexity: Divide and Conquer! - Michel Weststrate, React Amsterdam 2017](https://www.youtube.com/watch?v=3J9EJrvqOiM&list=TLGG8kFs45xUMH0xMjA2MjAxNw)
-- Angular. MobX. Happiness ([slides](https://www.slideshare.net/500Tech/angular-mobx-happiness
-) only)
+- [Angular, MobX, Happiness - Adam Klein. Angularup 2016](https://www.youtube.com/watch?v=00ys34cvudY) ([slides](https://www.slideshare.net/500Tech/angular-mobx-happiness))
 
 #### Tutorials
 
