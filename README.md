@@ -32,6 +32,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
   - [Tutorials](#tutorials)
   - [Articles / blogs explaining the inner working of MobX](#articles--blogs-explaining-the-inner-working-of-mobx)
   - [Blogs](#blogs)
+  - [Case Studies](#case-studies)
   - [Comparisons with other state management libraries](#comparisons-with-other-state-management-libraries)
 - [Examples](#examples)
   - [Public projects using MobX](#public-projects-using-mobx)
@@ -86,8 +87,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [The Quest For Immer Mutable Data, Reactive2016 conf](https://youtu.be/1Urj4TZ5BLI?t=5h27m40s) ([slides](http://immer-mutable-state.surge.sh/#1))
 - [Next generation state management - Michel Weststrate, ReactEurope 2017](https://www.youtube.com/watch?v=rwqwwn_46kA)
 - [Complexity: Divide and Conquer! - Michel Weststrate, React Amsterdam 2017](https://www.youtube.com/watch?v=3J9EJrvqOiM&list=TLGG8kFs45xUMH0xMjA2MjAxNw) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
-- Angular. MobX. Happiness ([slides](https://www.slideshare.net/500Tech/angular-mobx-happiness
-) only)
+- [Angular, MobX, Happiness - Adam Klein. Angularup 2016](https://www.youtube.com/watch?v=00ys34cvudY) ([slides](https://www.slideshare.net/500Tech/angular-mobx-happiness))
 
 #### Tutorials
 
@@ -110,6 +110,8 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [Introduction to Data Binding with MobX](https://appendto.com/2017/01/introduction-to-data-binding-with-mobx/)
 - [Build an Imgur Client with React Native and MobX tutorial](https://school.shoutem.com/lectures/build-simple-imgur-client-react-native-mobx-tutorial/) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 - [Introduction to MobX with React](https://orlandohamsho.com/javascript/introduction-mobx-react/) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
+- [MobX + React Tutorial: Building your first app](https://orlandohamsho.com/javascript/mobx-react-tutorial-building-first-application/)
+- [(Paid) React Native: Building Mobile Apps](https://www.lynda.com/React-Native-tutorials/React-Native-Building-Mobile-Apps/547379-2.html). Uses Firebase for authentication and storage, and MobX for state management
 
 #### Articles / blogs explaining the inner working of MobX
 
@@ -150,6 +152,12 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [Universal React Rendering: How We Rebuilt SitePoint](https://www.sitepoint.com/universal-react-rendering-sitepoint/?utm_content=buffer7905c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Scattered Thoughts on MobX](https://gist.github.com/thomasboyt/8cda9c533802a36ee6aac4559c4799b1)
 - [A MobX introduction and case study](https://blog.wearewizards.io/a-mobx-introduction-and-case-study) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
+- [Announcing LogRocket for MobX](https://blog.logrocket.com/announcing-logrocket-for-mobx-a9b65d8e6ed7)
+
+#### Case studies
+
+- [A MobX introduction and case study](https://blog.wearewizards.io/a-mobx-introduction-and-case-study)
+- [Rebuilding the Guest List Manager with React + MobX at The Knot](https://tech.xogrp.com/rebuilding-the-guest-list-manager-with-react-mobx-at-the-knot-e34e32920571)
 
 #### Comparisons with other state management libraries
 
@@ -274,6 +282,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [mobx-decorators](https://github.com/farwayer/mobx-decorators) Several helper MobX decorators (setter, observe, save, ...) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 - [mobx-bind](https://github.com/jamiewinder/mobx-bind) Utility library for binding MobX observables and observable collections to generic entities
 - [mobase](https://github.com/rasdaniil/mobase) Firebase-MobX adapter (a no-painer) ([Gitbook](https://rasdaniil.gitbooks.io/mobase/content/))
+- [react-mobx-router5](https://www.npmjs.com/package/react-mobx-router5)
 
 #### Model libraries
 
