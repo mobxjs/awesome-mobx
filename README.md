@@ -4,6 +4,8 @@
 
 A collection of awesome things regarding MobX.
 
+English | [简体中文](README-CN.md)
+
 ### Contribution
 
 Your contributions and suggestions are heartily welcome. =^.^=
