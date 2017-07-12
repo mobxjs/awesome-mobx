@@ -247,6 +247,7 @@
 - [starhack.it](http://www.starhack.it) 全栈启动工具
 - [cra-mobx-reactrouter](https://github.com/timarney/cra-mobx-reactrouter) Craft 模板 - MobX + React Router
 - [react-mobx-react-router4-boilerplate](https://github.com/mhaagens/react-mobx-react-router4-boilerplate) React + MobX + React-Router 4 样板文件
+- [react-native-mobx-boilerplate](https://github.com/mjyoung/react-native-mobx-boilerplate) 使用 React Navigation React Native MobX 样板.
 
 ### 相关项目和工具
 
