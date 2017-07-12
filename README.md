@@ -34,17 +34,17 @@ Your contributions and suggestions are heartily welcome. =^.^=
   - [Tutorials](#tutorials)
   - [Articles / blogs explaining the inner working of MobX](#articles--blogs-explaining-the-inner-working-of-mobx)
   - [Blogs](#blogs)
-  - [Case Studies](#case-studies)
+  - [Case studies](#case-studies)
   - [Comparisons with other state management libraries](#comparisons-with-other-state-management-libraries)
 - [Examples](#examples)
   - [Public projects using MobX](#public-projects-using-mobx)
   - [Real-life examples](#real-life-examples)
   - [Example projects](#example-projects)
-  - [Code example projects on codesandbox.io](#code-example-projects-on-codesandboxio)
+  - [Code example projects on codesandbox.io (or similar)](#code-example-projects-on-codesandboxio-or-similar)
 - [Boilerplates](#boilerplates)
 - [Related projects and utilities](#related-projects-and-utilities)
   - [Model libraries](#model-libraries)
-- [Projects Using MobX](#projects-using-mobx)
+- [Who is using MobX?](#who-is-using-mobx)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -296,8 +296,13 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [mobx-jsonapi-store](https://github.com/infinum/mobx-jsonapi-store/) JSON API specific data store
 - [mobx-model](https://github.com/ikido/mobx-model) Simplify mobx data stores that mimic backend models
 
-### Projects Using MobX
+### Who is using MobX?
 
-TODO: Add 5 notable projects or companies
+|  |  |
+|:-|-:|
+| <img style="max-height: 128px" src="https://cloud.githubusercontent.com/assets/1820292/20537504/af8f0cd8-b0ed-11e6-9b7e-cbd0b8847f27.png"/> | <img style="max-height: 128px" src="https://cloud.githubusercontent.com/assets/31465/20540254/5cca3db4-b0ad-11e6-9947-f5c402fe24a1.png"/> |
+| <img style="max-height: 128px" src="https://cloud.githubusercontent.com/assets/543633/21830691/50a784b6-d753-11e6-9ce0-bfe828515158.png"/> | <img style="max-height: 128px" src="https://cloud.githubusercontent.com/assets/8428179/22173509/69031042-dfce-11e6-8ed7-59be36fee58b.png"/> |
+| <img style="max-height: 128px" src="https://camo.githubusercontent.com/73bafafddba0b998684db71e7b4b694e485b5938/687474703a2f2f62657279746563682e6f72672f77702d636f6e74656e742f75706c6f6164732f323031352f31312f616d617a6f6e2d6177732d6c6f676f2e6a7067"/> | <img style="max-height: 128px" src="https://camo.githubusercontent.com/e8dc45f19303c5fa2f5a8e38cf47e0bc280ca7c7/687474703a2f2f70726f6d6f2e62616e6b6f66616d65726963612e636f6d2f6d756c746970726f647563742f6465736b746f702f6173736574732f696d616765732f4241435f4c6f676f5f486f72697a6f6e74616c5f5247422e737667"/> |
+| <img style="max-height: 128px" src="https://camo.githubusercontent.com/ef2ceaf794c74c171dfd94f3142bb10dbb88ec78/68747470733a2f2f7777772d30332e69626d2e636f6d2f69626d2f686973746f72792f65786869626974732f6c6f676f2f696d616765732f3932303931312e6a7067"/> | <img style="max-height: 128px" src="https://user-images.githubusercontent.com/143466/27392023-7cf9e4f6-5673-11e7-9f67-c016af489af8.png"/> |
 
-[and many many more!](USERS.md)
+[... and many more!](USERS.md)
