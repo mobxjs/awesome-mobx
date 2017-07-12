@@ -249,6 +249,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [starhack.it](http://www.starhack.it) A full stack starter kit
 - [cra-mobx-reactrouter](https://github.com/timarney/cra-mobx-reactrouter) Craft Template - MobX + React Router
 - [react-mobx-react-router4-boilerplate](https://github.com/mhaagens/react-mobx-react-router4-boilerplate) React MobX React-Router 4 Boilerplate
+- [react-native-mobx-boilerplate](https://github.com/mjyoung/react-native-mobx-boilerplate) React Native MobX boilerplate using React Navigation.
 
 ### Related projects and utilities
 
