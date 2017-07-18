@@ -268,6 +268,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [mobx-router](https://github.com/kitze/mobx-router) A simple router for MobX apps
 - [mobx-firebase-store](https://github.com/nyura123/mobx-firebase-store) Subscribe MobX observables to firebase
 - [mobx-store](https://github.com/AriaFallah/mobx-store) A lowdb inspired data store with declarative querying, observable state, and easy undo/redo.
+- [mobx-stored](https://github.com/capaj/mobx-stored) Mobx observables persistent across browser sessions
 - [mobx-reactor](https://github.com/amsb/mobx-reactor) Connect MobX data stores to functional stateless React components with async actions and unidirectional data flow.
 - [mobx-autorun-async-immediate](https://github.com/dettier/mobx-autorun-async-immediate) Mobx debounced autorun function with immediate synchronous first call
 - [react-mobx-translatable](https://github.com/infinum/react-mobx-translatable) Make React components translatable using MobX. Can be used both on the server (SSR) and in the browser.
