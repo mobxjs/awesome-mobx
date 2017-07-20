@@ -286,7 +286,7 @@
 - [mobx-bind](https://github.com/jamiewinder/mobx-bind) 将 MobX observables 和 observables 的集合绑定到通用实体的工具库
 - [mobase](https://github.com/rasdaniil/mobase) Firebase-MobX 适配器 (无痛点) ([Gitbook](https://rasdaniil.gitbooks.io/mobase/content/))
 - [react-mobx-router5](https://www.npmjs.com/package/react-mobx-router5)
-- [mobx-react-inject](https://github.com/mass3ff3ct/mobx-react-inject) 实施商店注入以使用 MobX，TypeScript 和 Decorator 元数据对组件进行反应
+- [mobx-react-inject](https://github.com/mass3ff3ct/mobx-react-inject) React 组件的 store 注入，使用 MobX、TypeScript 和装饰器元数据实现的
 
 #### 模型库
 
