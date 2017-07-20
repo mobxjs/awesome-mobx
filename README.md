@@ -287,6 +287,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [mobx-bind](https://github.com/jamiewinder/mobx-bind) Utility library for binding MobX observables and observable collections to generic entities
 - [mobase](https://github.com/rasdaniil/mobase) Firebase-MobX adapter (a no-painer) ([Gitbook](https://rasdaniil.gitbooks.io/mobase/content/))
 - [react-mobx-router5](https://www.npmjs.com/package/react-mobx-router5)
+- [mobx-react-inject](https://github.com/mass3ff3ct/mobx-react-inject)
 
 #### Model libraries
 
