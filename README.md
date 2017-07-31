@@ -114,6 +114,8 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [Introduction to MobX with React](https://orlandohamsho.com/javascript/introduction-mobx-react/) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 - [MobX + React Tutorial: Building your first app](https://orlandohamsho.com/javascript/mobx-react-tutorial-building-first-application/)
 - [(Paid) React Native: Building Mobile Apps](https://www.lynda.com/React-Native-tutorials/React-Native-Building-Mobile-Apps/547379-2.html). Uses Firebase for authentication and storage, and MobX for state management
+- [How to Manage State in Ionic Apps with MobX](https://gonehybrid.com/how-to-manage-state-in-ionic-apps-with-mobx-part-1/) (and [part 2](https://gonehybrid.com/how-to-manage-state-in-ionic-apps-with-mobx-part-2/)
+- [Build a React Native HackerNews App where People are Nice](https://school.shoutem.com/lectures/react-native-hackernews-app/) - Using Google's language API and MobX
 
 #### Articles / blogs explaining the inner working of MobX
 
@@ -155,6 +157,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [Scattered Thoughts on MobX](https://gist.github.com/thomasboyt/8cda9c533802a36ee6aac4559c4799b1)
 - [A MobX introduction and case study](https://blog.wearewizards.io/a-mobx-introduction-and-case-study) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 - [Announcing LogRocket for MobX](https://blog.logrocket.com/announcing-logrocket-for-mobx-a9b65d8e6ed7)
+- [Realtime with React and Rails](https://blog.codeship.com/realtime-with-react-and-rails/)
 
 #### Case studies
 
@@ -184,6 +187,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [Google Play Music Desktop Remote](https://github.com/GPMDP/google-play-music-desktop-remote) A React-Native app for remote controlling Google Play Music Desktop: MobX + WebSocket.
 - [PokemonGo webspoof](https://github.com/iam4x/pokemongo-webspoof/) Play PokemonGo on your Mac
 - [vcash-electron](https://github.com/whphhg/vcash-electron) - Electron UI for the Vcash crypto currency
+- [Streamflow](https://github.com/hawkins/streamflow) - Electron app for improving the Twitch viewer experience
 
 #### Real-life examples
 
@@ -287,6 +291,8 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [mobx-bind](https://github.com/jamiewinder/mobx-bind) Utility library for binding MobX observables and observable collections to generic entities
 - [mobase](https://github.com/rasdaniil/mobase) Firebase-MobX adapter (a no-painer) ([Gitbook](https://rasdaniil.gitbooks.io/mobase/content/))
 - [react-mobx-router5](https://www.npmjs.com/package/react-mobx-router5)
+- [redux-mobx-connect](https://github.com/ds300/redux-mobx-connect) A simple alternative to react-redux
+- [xūs](https://medium.com/@onurgunduz/introducing-xus-a-reactive-template-engine-on-top-of-mobx-2f9e619edf5a) A reactive template engine on top of mobx. Compile Mustache templates to observer / React components, to leverage the best parts of MobX / React, while sticking to the simple Mustache templates.
 - [mobx-react-inject](https://github.com/mass3ff3ct/mobx-react-inject) Implementation of store injection to React component with MobX, TypeScript and decorator metadata
 
 #### Model libraries
