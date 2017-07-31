@@ -157,6 +157,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [Scattered Thoughts on MobX](https://gist.github.com/thomasboyt/8cda9c533802a36ee6aac4559c4799b1)
 - [A MobX introduction and case study](https://blog.wearewizards.io/a-mobx-introduction-and-case-study) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 - [Announcing LogRocket for MobX](https://blog.logrocket.com/announcing-logrocket-for-mobx-a9b65d8e6ed7)
+- [Realtime with React and Rails](https://blog.codeship.com/realtime-with-react-and-rails/)
 
 #### Case studies
 
@@ -289,6 +290,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [mobase](https://github.com/rasdaniil/mobase) Firebase-MobX adapter (a no-painer) ([Gitbook](https://rasdaniil.gitbooks.io/mobase/content/))
 - [react-mobx-router5](https://www.npmjs.com/package/react-mobx-router5)
 - [redux-mobx-connect](https://github.com/ds300/redux-mobx-connect) A simple alternative to react-redux
+- [xūs](https://medium.com/@onurgunduz/introducing-xus-a-reactive-template-engine-on-top-of-mobx-2f9e619edf5a) A reactive template engine on top of mobx. Compile Mustache templates to observer / React components, to leverage the best parts of MobX / React, while sticking to the simple Mustache templates.
 
 #### Model libraries
 
