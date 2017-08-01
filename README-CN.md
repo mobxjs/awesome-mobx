@@ -113,6 +113,8 @@
 - [搭配 React 使用的 MobX 介绍](https://orlandohamsho.com/javascript/introduction-mobx-react/) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 - [MobX + React 教程: 构建你的第一个应用](https://orlandohamsho.com/javascript/mobx-react-tutorial-building-first-application/)
 - [(付费) React Native: 构建移动应用](https://www.lynda.com/React-Native-tutorials/React-Native-Building-Mobile-Apps/547379-2.html)。使用 Firebase 来授权和存储，使用 MobX 来管理状态。
+- [如何在 IonIc 应用中使用 MobX 管理状态](https://gonehybrid.com/how-to-manage-state-in-ionic-apps-with-mobx-part-1/) (和 [第2部分](https://gonehybrid.com/how-to-manage-state-in-ionic-apps-with-mobx-part-2/))
+- [构建 React Native 的 HackerNews 应用](https://school.shoutem.com/lectures/react-native-hackernews-app/) - 使用 Google 的语言 API 和 MobX
 
 #### 解释 MobX 内部运行原理的文章/博客
 
@@ -153,6 +155,7 @@
 - [React 的通用渲染: 我们是如何重新构建 SitePoint 的](https://www.sitepoint.com/universal-react-rendering-sitepoint/?utm_content=buffer7905c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [MobX 杂谈](https://gist.github.com/thomasboyt/8cda9c533802a36ee6aac4559c4799b1)
 - [LogRocket 宣布支持 MobX](https://blog.logrocket.com/announcing-logrocket-for-mobx-a9b65d8e6ed7)
+- [使用 React 和 Rails 的实时应用](https://blog.codeship.com/realtime-with-react-and-rails/)
 
 #### 案例研究
 
@@ -182,6 +185,7 @@
 - [Google Play Music Desktop Remote](https://github.com/GPMDP/google-play-music-desktop-remote) 远程遥控 Google Play Music Desktop 的 React-Native 应用: MobX + WebSocket.
 - [PokemonGo webspoof](https://github.com/iam4x/pokemongo-webspoof/) 在 Mac 上玩 PokemonGo
 - [vcash-electron](https://github.com/whphhg/vcash-electron) - Vcash 加密货币的 Electron UI
+- [Streamflow](https://github.com/hawkins/streamflow) - 改善 Twitch 观众体验的 Electron 应用
 
 #### 现实生活中的示例
 
@@ -286,6 +290,8 @@
 - [mobx-bind](https://github.com/jamiewinder/mobx-bind) 将 MobX observables 和 observables 的集合绑定到通用实体的工具库
 - [mobase](https://github.com/rasdaniil/mobase) Firebase-MobX 适配器 (无痛点) ([Gitbook](https://rasdaniil.gitbooks.io/mobase/content/))
 - [react-mobx-router5](https://www.npmjs.com/package/react-mobx-router5)
+- [redux-mobx-connect](https://github.com/ds300/redux-mobx-connect) react-redux 的简单替代品
+- [xūs](https://medium.com/@onurgunduz/introducing-xus-a-reactive-template-engine-on-top-of-mobx-2f9e619edf5a) 基于 MobX 的响应式模板引擎。将 Mustache 模板编译成 observer / React 组件，以利用 MobX / React 的最棒的部分，同时坚持使用简单的 Mustache 模板。
 - [mobx-react-inject](https://github.com/mass3ff3ct/mobx-react-inject) React 组件的 store 注入，使用 MobX、TypeScript 和装饰器元数据实现的
 
 #### 模型库
