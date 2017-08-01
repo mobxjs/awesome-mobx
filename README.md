@@ -114,7 +114,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [Introduction to MobX with React](https://orlandohamsho.com/javascript/introduction-mobx-react/) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 - [MobX + React Tutorial: Building your first app](https://orlandohamsho.com/javascript/mobx-react-tutorial-building-first-application/)
 - [(Paid) React Native: Building Mobile Apps](https://www.lynda.com/React-Native-tutorials/React-Native-Building-Mobile-Apps/547379-2.html). Uses Firebase for authentication and storage, and MobX for state management
-- [How to Manage State in Ionic Apps with MobX](https://gonehybrid.com/how-to-manage-state-in-ionic-apps-with-mobx-part-1/) (and [part 2](https://gonehybrid.com/how-to-manage-state-in-ionic-apps-with-mobx-part-2/)
+- [How to Manage State in Ionic Apps with MobX](https://gonehybrid.com/how-to-manage-state-in-ionic-apps-with-mobx-part-1/) (and [part 2](https://gonehybrid.com/how-to-manage-state-in-ionic-apps-with-mobx-part-2/))
 - [Build a React Native HackerNews App where People are Nice](https://school.shoutem.com/lectures/react-native-hackernews-app/) - Using Google's language API and MobX
 
 #### Articles / blogs explaining the inner working of MobX
