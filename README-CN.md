@@ -114,7 +114,8 @@
 - [MobX + React 教程: 构建你的第一个应用](https://orlandohamsho.com/javascript/mobx-react-tutorial-building-first-application/)
 - [(付费) React Native: 构建移动应用](https://www.lynda.com/React-Native-tutorials/React-Native-Building-Mobile-Apps/547379-2.html)。使用 Firebase 来授权和存储，使用 MobX 来管理状态。
 - [如何在 IonIc 应用中使用 MobX 管理状态](https://gonehybrid.com/how-to-manage-state-in-ionic-apps-with-mobx-part-1/) (和 [第2部分](https://gonehybrid.com/how-to-manage-state-in-ionic-apps-with-mobx-part-2/))
-- [构建 React Native 的 HackerNews 应用](https://school.shoutem.com/lectures/react-native-hackernews-app/) - 使用 Google 的语言 API 和 MobX
+- [构建 React Native 的 HackerNews 应用](https://school.shoutem.com/lectures/react-native-hackernews-app/) - 使用 Google 的语言 API 和 MobX (和 [第2部分](https://school.shoutem.com/lectures/hacker-news-app-part-2-upvoting-commenting/))
+- [MobX 用于应用状态管理](https://medium.com/@tylerwclark/mobx-for-application-state-management-7b33e35c4883)
 
 #### 解释 MobX 内部运行原理的文章/博客
 
@@ -156,11 +157,15 @@
 - [MobX 杂谈](https://gist.github.com/thomasboyt/8cda9c533802a36ee6aac4559c4799b1)
 - [LogRocket 宣布支持 MobX](https://blog.logrocket.com/announcing-logrocket-for-mobx-a9b65d8e6ed7)
 - [使用 React 和 Rails 的实时应用](https://blog.codeship.com/realtime-with-react-and-rails/)
+- [使用 React 和 MobX 来制作苹果派](https://medium.com/dazn-tech/cooking-a-strudel-with-react-mobx-c84bffcaf6d)
+- [Redux 和 MobX 入门](https://medium.com/@guptagaruda/introduction-to-redux-and-mobx-e6fa98b6479)
 
 #### 案例研究
 
 - [MobX 介绍和案例研究](https://blog.wearewizards.io/a-mobx-introduction-and-case-study) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 - [The Knot 使用 React + MobX 重建宾客列表管理工具](https://tech.xogrp.com/rebuilding-the-guest-list-manager-with-react-mobx-at-the-knot-e34e32920571)
+- [提供新功能的同时迁移至 React + MobX](https://blog.heapanalytics.com/migrating-react-mobx-without-rewrite)
+- [测量性能提升  —  AngularJS 迁移至 React (使用 Redux 或 MobX)](https://medium.com/netscape/measuring-performance-gains-angularjs-to-react-with-redux-or-mobx-fb221517455) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 
 #### 与其他状态管理工具进行比较
 
@@ -172,6 +177,7 @@
 - [MobX: 你应该考虑 Redux 的替代方案](https://logbook.hanno.co/mobx-redux-alternative/?utm_campaign=coschedule&utm_source=twitter&utm_medium=wearehanno&utm_content=MobX:%20a%20Redux%20alternative%20you%20should%20consider) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 - [Redux 还是 MobX: 当我重构一个中型的 React 应用后所学到的](https://dannyherran.com/2017/03/react-redux-mobx-takeaways/?utm_campaign=crowdfire&utm_content=crowdfire&utm_medium=social&utm_source=twitter) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 - [一个 MobX 真正闪光而 Redux 并不适合的人造示例](https://hackernoon.com/an-artificial-example-where-mobx-really-shines-and-redux-is-not-really-suited-for-it-1a58313c0c70) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
+- [Angular vs. React: 哪个更适合 Web 开发？](https://codeburst.io/angular-vs-react-which-is-better-for-web-development-e0dd1fefab5b?gi=9644c590f95d) 虽然这不是与其他**状态库**的比较，但这是个非常有帮助的链接，它展示了 MobX 如何适应新的技术栈(如果你用过其他游戏诶框架，从 Angular 到 React，或其他等等)。 ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 
 ### 示例
 
@@ -293,6 +299,8 @@
 - [redux-mobx-connect](https://github.com/ds300/redux-mobx-connect) react-redux 的简单替代品
 - [xūs](https://medium.com/@onurgunduz/introducing-xus-a-reactive-template-engine-on-top-of-mobx-2f9e619edf5a) 基于 MobX 的响应式模板引擎。将 Mustache 模板编译成 observer / React 组件，以利用 MobX / React 的最棒的部分，同时坚持使用简单的 Mustache 模板。
 - [mobx-react-inject](https://github.com/mass3ff3ct/mobx-react-inject) React 组件的 store 注入，使用 MobX、TypeScript 和装饰器元数据实现的
+- [vue-mobx](https://www.npmjs.com/package/vue-mobx) Vue 的 MobX 绑定库
+- [mobx-apollo](https://github.com/sonaye/mobx-apollo) MobX 和 Apollo 客户端的集成工具
 
 #### 模型库
 
