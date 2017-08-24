@@ -116,6 +116,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [(Paid) React Native: Building Mobile Apps](https://www.lynda.com/React-Native-tutorials/React-Native-Building-Mobile-Apps/547379-2.html). Uses Firebase for authentication and storage, and MobX for state management
 - [How to Manage State in Ionic Apps with MobX](https://gonehybrid.com/how-to-manage-state-in-ionic-apps-with-mobx-part-1/) (and [part 2](https://gonehybrid.com/how-to-manage-state-in-ionic-apps-with-mobx-part-2/))
 - [Build a React Native HackerNews App where People are Nice](https://school.shoutem.com/lectures/react-native-hackernews-app/) - Using Google's language API and MobX (and [Part 2](https://school.shoutem.com/lectures/hacker-news-app-part-2-upvoting-commenting/))
+- [MobX for Application State Management](https://medium.com/@tylerwclark/mobx-for-application-state-management-7b33e35c4883)
 
 #### Articles / blogs explaining the inner working of MobX
 
@@ -159,12 +160,14 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [Announcing LogRocket for MobX](https://blog.logrocket.com/announcing-logrocket-for-mobx-a9b65d8e6ed7)
 - [Realtime with React and Rails](https://blog.codeship.com/realtime-with-react-and-rails/)
 - [Cooking a Strudel with React & MobX](https://medium.com/dazn-tech/cooking-a-strudel-with-react-mobx-c84bffcaf6d)
+- [Introduction to Redux and MobX](https://medium.com/@guptagaruda/introduction-to-redux-and-mobx-e6fa98b6479)
 
 #### Case studies
 
 - [A MobX introduction and case study](https://blog.wearewizards.io/a-mobx-introduction-and-case-study)
 - [Rebuilding the Guest List Manager with React + MobX at The Knot](https://tech.xogrp.com/rebuilding-the-guest-list-manager-with-react-mobx-at-the-knot-e34e32920571)
 - [Migrating To React + MobX While Shipping New Features](https://blog.heapanalytics.com/migrating-react-mobx-without-rewrite)
+- [Measuring performance gains  —  AngularJS to React (with Redux or MobX)](https://medium.com/netscape/measuring-performance-gains-angularjs-to-react-with-redux-or-mobx-fb221517455) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 
 #### Comparisons with other state management libraries
 
