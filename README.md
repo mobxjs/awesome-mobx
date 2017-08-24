@@ -115,7 +115,8 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [MobX + React Tutorial: Building your first app](https://orlandohamsho.com/javascript/mobx-react-tutorial-building-first-application/)
 - [(Paid) React Native: Building Mobile Apps](https://www.lynda.com/React-Native-tutorials/React-Native-Building-Mobile-Apps/547379-2.html). Uses Firebase for authentication and storage, and MobX for state management
 - [How to Manage State in Ionic Apps with MobX](https://gonehybrid.com/how-to-manage-state-in-ionic-apps-with-mobx-part-1/) (and [part 2](https://gonehybrid.com/how-to-manage-state-in-ionic-apps-with-mobx-part-2/))
-- [Build a React Native HackerNews App where People are Nice](https://school.shoutem.com/lectures/react-native-hackernews-app/) - Using Google's language API and MobX
+- [Build a React Native HackerNews App where People are Nice](https://school.shoutem.com/lectures/react-native-hackernews-app/) - Using Google's language API and MobX (and [Part 2](https://school.shoutem.com/lectures/hacker-news-app-part-2-upvoting-commenting/))
+- [MobX for Application State Management](https://medium.com/@tylerwclark/mobx-for-application-state-management-7b33e35c4883)
 
 #### Articles / blogs explaining the inner working of MobX
 
@@ -158,11 +159,15 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [A MobX introduction and case study](https://blog.wearewizards.io/a-mobx-introduction-and-case-study) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 - [Announcing LogRocket for MobX](https://blog.logrocket.com/announcing-logrocket-for-mobx-a9b65d8e6ed7)
 - [Realtime with React and Rails](https://blog.codeship.com/realtime-with-react-and-rails/)
+- [Cooking a Strudel with React & MobX](https://medium.com/dazn-tech/cooking-a-strudel-with-react-mobx-c84bffcaf6d)
+- [Introduction to Redux and MobX](https://medium.com/@guptagaruda/introduction-to-redux-and-mobx-e6fa98b6479)
 
 #### Case studies
 
 - [A MobX introduction and case study](https://blog.wearewizards.io/a-mobx-introduction-and-case-study)
 - [Rebuilding the Guest List Manager with React + MobX at The Knot](https://tech.xogrp.com/rebuilding-the-guest-list-manager-with-react-mobx-at-the-knot-e34e32920571)
+- [Migrating To React + MobX While Shipping New Features](https://blog.heapanalytics.com/migrating-react-mobx-without-rewrite)
+- [Measuring performance gains  —  AngularJS to React (with Redux or MobX)](https://medium.com/netscape/measuring-performance-gains-angularjs-to-react-with-redux-or-mobx-fb221517455) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 
 #### Comparisons with other state management libraries
 
@@ -174,6 +179,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [MobX: a Redux alternative you should consider](https://logbook.hanno.co/mobx-redux-alternative/?utm_campaign=coschedule&utm_source=twitter&utm_medium=wearehanno&utm_content=MobX:%20a%20Redux%20alternative%20you%20should%20consider) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 - [Redux or MobX: What I learned after refactoring a medium-sized React app](https://dannyherran.com/2017/03/react-redux-mobx-takeaways/?utm_campaign=crowdfire&utm_content=crowdfire&utm_medium=social&utm_source=twitter) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 - [An artificial example where MobX really shines and Redux is not really suited for it](https://hackernoon.com/an-artificial-example-where-mobx-really-shines-and-redux-is-not-really-suited-for-it-1a58313c0c70) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
+- [Angular vs. React: Which Is Better for Web Development?](https://codeburst.io/angular-vs-react-which-is-better-for-web-development-e0dd1fefab5b?gi=9644c590f95d) While not a comparison with other *state libraries* exactly, this is a very helpful link that shows how MobX can fit into a new stack if you're used to some other frameworks (Moving from Angular to React, or etc). ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 
 ### Examples
 
@@ -294,6 +300,8 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [redux-mobx-connect](https://github.com/ds300/redux-mobx-connect) A simple alternative to react-redux
 - [xūs](https://medium.com/@onurgunduz/introducing-xus-a-reactive-template-engine-on-top-of-mobx-2f9e619edf5a) A reactive template engine on top of mobx. Compile Mustache templates to observer / React components, to leverage the best parts of MobX / React, while sticking to the simple Mustache templates.
 - [mobx-react-inject](https://github.com/mass3ff3ct/mobx-react-inject) Implementation of store injection to React component with MobX, TypeScript and decorator metadata
+- [vue-mobx](https://www.npmjs.com/package/vue-mobx) MobX bindings for Vue
+- [mobx-apollo](https://github.com/sonaye/mobx-apollo) A MobX and Apollo Client integration utility
 
 #### Model libraries
 
