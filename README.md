@@ -115,7 +115,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [MobX + React Tutorial: Building your first app](https://orlandohamsho.com/javascript/mobx-react-tutorial-building-first-application/)
 - [(Paid) React Native: Building Mobile Apps](https://www.lynda.com/React-Native-tutorials/React-Native-Building-Mobile-Apps/547379-2.html). Uses Firebase for authentication and storage, and MobX for state management
 - [How to Manage State in Ionic Apps with MobX](https://gonehybrid.com/how-to-manage-state-in-ionic-apps-with-mobx-part-1/) (and [part 2](https://gonehybrid.com/how-to-manage-state-in-ionic-apps-with-mobx-part-2/))
-- [Build a React Native HackerNews App where People are Nice](https://school.shoutem.com/lectures/react-native-hackernews-app/) - Using Google's language API and MobX
+- [Build a React Native HackerNews App where People are Nice](https://school.shoutem.com/lectures/react-native-hackernews-app/) - Using Google's language API and MobX (and [Part 2](https://school.shoutem.com/lectures/hacker-news-app-part-2-upvoting-commenting/))
 
 #### Articles / blogs explaining the inner working of MobX
 
@@ -158,6 +158,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [A MobX introduction and case study](https://blog.wearewizards.io/a-mobx-introduction-and-case-study) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 - [Announcing LogRocket for MobX](https://blog.logrocket.com/announcing-logrocket-for-mobx-a9b65d8e6ed7)
 - [Realtime with React and Rails](https://blog.codeship.com/realtime-with-react-and-rails/)
+- [Cooking a Strudel with React & MobX](https://medium.com/dazn-tech/cooking-a-strudel-with-react-mobx-c84bffcaf6d)
 
 #### Case studies
 
@@ -294,6 +295,8 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [redux-mobx-connect](https://github.com/ds300/redux-mobx-connect) A simple alternative to react-redux
 - [xūs](https://medium.com/@onurgunduz/introducing-xus-a-reactive-template-engine-on-top-of-mobx-2f9e619edf5a) A reactive template engine on top of mobx. Compile Mustache templates to observer / React components, to leverage the best parts of MobX / React, while sticking to the simple Mustache templates.
 - [mobx-react-inject](https://github.com/mass3ff3ct/mobx-react-inject) Implementation of store injection to React component with MobX, TypeScript and decorator metadata
+- [vue-mobx](https://www.npmjs.com/package/vue-mobx) MobX bindings for Vue
+- [mobx-apollo](https://github.com/sonaye/mobx-apollo) A MobX and Apollo Client integration utility
 
 #### Model libraries
 
