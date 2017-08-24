@@ -164,6 +164,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 
 - [A MobX introduction and case study](https://blog.wearewizards.io/a-mobx-introduction-and-case-study)
 - [Rebuilding the Guest List Manager with React + MobX at The Knot](https://tech.xogrp.com/rebuilding-the-guest-list-manager-with-react-mobx-at-the-knot-e34e32920571)
+- [Migrating To React + MobX While Shipping New Features](https://blog.heapanalytics.com/migrating-react-mobx-without-rewrite)
 
 #### Comparisons with other state management libraries
 
@@ -175,6 +176,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [MobX: a Redux alternative you should consider](https://logbook.hanno.co/mobx-redux-alternative/?utm_campaign=coschedule&utm_source=twitter&utm_medium=wearehanno&utm_content=MobX:%20a%20Redux%20alternative%20you%20should%20consider) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 - [Redux or MobX: What I learned after refactoring a medium-sized React app](https://dannyherran.com/2017/03/react-redux-mobx-takeaways/?utm_campaign=crowdfire&utm_content=crowdfire&utm_medium=social&utm_source=twitter) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 - [An artificial example where MobX really shines and Redux is not really suited for it](https://hackernoon.com/an-artificial-example-where-mobx-really-shines-and-redux-is-not-really-suited-for-it-1a58313c0c70) ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
+- [Angular vs. React: Which Is Better for Web Development?](https://codeburst.io/angular-vs-react-which-is-better-for-web-development-e0dd1fefab5b?gi=9644c590f95d) While not a comparison with other *state libraries* exactly, this is a very helpful link that shows how MobX can fit into a new stack if you're used to some other frameworks (Moving from Angular to React, or etc). ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 
 ### Examples
 
