@@ -233,6 +233,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [TypeScript example graphics editor: baltar](https://github.com/danielearwicker/baltar)
 - [A social mobile messaging marketplace app using React Native, Firebase, Mobx, CodePush, OneSignal](https://jsapp.me/a-social-mobile-messaging-marketplace-app-using-react-native-firebase-mobx-codepush-onesignal-fad105e70fc1) (code available on [GitHub](https://github.com/jsappme/react-native-firebase-starter))
 - [Architecture for a very light MobX project](https://github.com/danieldunderfelt/mobx-app)
+- [Flex editor](https://github.com/limichange/flex-editor)
 
 #### Code example projects on codesandbox.io (or similar)
 

@@ -231,6 +231,7 @@
 - [TypeScript 图形示例编辑器: baltar](https://github.com/danielearwicker/baltar)
 - [使用 React Native, Firebase, Mobx, CodePush, OneSignal 的社交移动消息应用](https://jsapp.me/a-social-mobile-messaging-marketplace-app-using-react-native-firebase-mobx-codepush-onesignal-fad105e70fc1) (代码在 [GitHub](https://github.com/jsappme/react-native-firebase-starter) 可见)
 - [轻量级的 MobX 项目架构](https://github.com/danieldunderfelt/mobx-app)
+- [Flex 在线编辑器](https://github.com/limichange/flex-editor)
 
 #### codesandbox.io (或类似的) 上的代码示例项目
 
