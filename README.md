@@ -314,6 +314,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [mobx-collection-store](https://github.com/infinum/mobx-collection-store/) Data collection store for MobX
 - [mobx-jsonapi-store](https://github.com/infinum/mobx-jsonapi-store/) JSON API specific data store
 - [mobx-model](https://github.com/ikido/mobx-model) Simplify mobx data stores that mimic backend models
+- [mobx-decorated-models](https://github.com/nathanstitt/mobx-decorated-models) Decorators to establish relations between and serialize/deserialize models and collections.
 
 ### Who is using MobX?
 
