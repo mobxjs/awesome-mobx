@@ -303,6 +303,7 @@
 - [mobx-react-inject](https://github.com/mass3ff3ct/mobx-react-inject) React 组件的 store 注入，使用 MobX、TypeScript 和装饰器元数据实现的
 - [vue-mobx](https://www.npmjs.com/package/vue-mobx) Vue 的 MobX 绑定库
 - [mobx-apollo](https://github.com/sonaye/mobx-apollo) MobX 和 Apollo 客户端的集成工具
+- [movue](https://github.com/nighca/movue) - 适用于 Vue.js 的 MobX 集成
 
 #### 模型库
 
