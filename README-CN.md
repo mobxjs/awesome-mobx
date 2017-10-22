@@ -313,6 +313,7 @@
 - [mobx-collection-store](https://github.com/infinum/mobx-collection-store/) MobX 的数据集合存储
 - [mobx-jsonapi-store](https://github.com/infinum/mobx-jsonapi-store/) MobX 的 JSON API 数据存储
 - [mobx-model](https://github.com/ikido/mobx-model) 简化模仿后端模型的 mobx 数据存储
+- [mobx-decorated-models](https://github.com/nathanstitt/mobx-decorated-models) 在序列化/反序列化模型和集合间建立关系的装饰器
 
 ### 谁在使用 MobX?
  
