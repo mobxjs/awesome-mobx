@@ -302,6 +302,7 @@
 - [xūs](https://medium.com/@onurgunduz/introducing-xus-a-reactive-template-engine-on-top-of-mobx-2f9e619edf5a) 基于 MobX 的响应式模板引擎。将 Mustache 模板编译成 observer / React 组件，以利用 MobX / React 的最棒的部分，同时坚持使用简单的 Mustache 模板。
 - [mobx-react-inject](https://github.com/mass3ff3ct/mobx-react-inject) React 组件的 store 注入，使用 MobX、TypeScript 和装饰器元数据实现的
 - [vue-mobx](https://www.npmjs.com/package/vue-mobx) Vue 的 MobX 绑定库
+- [movue](https://github.com/nighca/movue) - Vue 的 MobX 绑定库
 - [mobx-apollo](https://github.com/sonaye/mobx-apollo) MobX 和 Apollo 客户端的集成工具
 - [mobx-react-intl](https://github.com/Sqooba/mobx-react-intl) 用于 [react-intl](https://github.com/yahoo/react-intl) 的国际化 store 和 provider
 
