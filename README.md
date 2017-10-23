@@ -303,8 +303,9 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [xūs](https://medium.com/@onurgunduz/introducing-xus-a-reactive-template-engine-on-top-of-mobx-2f9e619edf5a) A reactive template engine on top of mobx. Compile Mustache templates to observer / React components, to leverage the best parts of MobX / React, while sticking to the simple Mustache templates.
 - [mobx-react-inject](https://github.com/mass3ff3ct/mobx-react-inject) Implementation of store injection to React component with MobX, TypeScript and decorator metadata
 - [vue-mobx](https://www.npmjs.com/package/vue-mobx) MobX bindings for Vue
+- [movue](https://github.com/nighca/movue) - MobX integration for Vue
 - [mobx-apollo](https://github.com/sonaye/mobx-apollo) A MobX and Apollo Client integration utility
-- [movue](https://github.com/nighca/movue) - MobX integration for Vue.js.
+- [mobx-react-intl](https://github.com/Sqooba/mobx-react-intl) Internationalization store and provider for [react-intl](https://github.com/yahoo/react-intl)
 
 #### Model libraries
 
