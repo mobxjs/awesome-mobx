@@ -194,7 +194,9 @@ Your contributions and suggestions are heartily welcome. =^.^=
 - [Google Play Music Desktop Remote](https://github.com/GPMDP/google-play-music-desktop-remote) A React-Native app for remote controlling Google Play Music Desktop: MobX + WebSocket.
 - [PokemonGo webspoof](https://github.com/iam4x/pokemongo-webspoof/) Play PokemonGo on your Mac
 - [vcash-electron](https://github.com/whphhg/vcash-electron) - Electron UI for the Vcash crypto currency
-- [Streamflow](https://github.com/hawkins/streamflow) - Electron app for improving the Twitch viewer experience
+- [Streamflow](https://github.com/hawkins/streamflow) - Electron app for improving the Twitch viewer experience]
+- [Email Autocomplete Input](https://alex-cory.github.io/email-autocomplete-input/) - Simple email autocomplete input component.
+- [Minesweeper](https://alex-cory.github.io/mine-sweeper/)
 
 #### Real-life examples
 
