@@ -377,8 +377,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [MobX react bindings](https://github.com/mobxjs/mobx-react)
 * [MobX remotedev: Use the Redux Devtools with MobX](https://github.com/zalmoxisus/mobx-remotedev)
 * [MobX inferno bindings](https://www.npmjs.com/package/inferno-mobx)
-* For Preact the [preact-compat](https://github.com/developit/preact-compat)
-  module + mobx-react can be used.
+* [MobX preact bindings](https://www.npmjs.com/package/mobx-preact)
 * [mobx-react-form](https://foxhound87.github.io/mobx-react-form) Build forms
   and validate them using json-schema rules
   ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
