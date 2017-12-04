@@ -367,9 +367,7 @@
 * [MobX react 开发者工具](https://github.com/mobxjs/mobx-react-devtools)
 * [MobX remotedev: 使用 MobX 版本的 Redux 开发工具](https://github.com/zalmoxisus/mobx-remotedev)
 * [MobX inferno 绑定](https://www.npmjs.com/package/mobx-inferno)
-* 对于 Preact，可以使用
-  [preact-compat](https://github.com/developit/preact-compat) 模块 + mobx-react
-  。
+* [MobX preact 绑定](https://github.com/philmander/mobx-preact)
 * [mobx-react-form](https://foxhound87.github.io/mobx-react-form) 构建表单并使用
   json-schema 规则验证它们
   ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
