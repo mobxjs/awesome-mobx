@@ -458,6 +458,8 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [mobx-react-intl](https://github.com/Sqooba/mobx-react-intl)
   Internationalization store and provider for
   [react-intl](https://github.com/yahoo/react-intl)
+* [firestorter](https://github.com/IjzerenHein/firestorter) Use Firestore
+  in React with zero effort, using MobX
 
 #### Model libraries
 
