@@ -156,6 +156,7 @@
   使用 Google 的语言 API 和 MobX ( 和
   [第 2 部分](https://school.shoutem.com/lectures/hacker-news-app-part-2-upvoting-commenting/))
 * [MobX 用于应用状态管理](https://medium.com/@tylerwclark/mobx-for-application-state-management-7b33e35c4883)
+* [建立一个 React / Firestore 应用程序，不费力气和 MobX](https://medium.com/@hrutjes/building-a-react-firestore-app-with-zero-effort-and-mobx-525df611eabf)
 
 #### 解释 MobX 内部运行原理的文章 / 博客
 
@@ -437,6 +438,7 @@
   成工具
 * [mobx-react-intl](https://github.com/Sqooba/mobx-react-intl) 用于
   [react-intl](https://github.com/yahoo/react-intl) 的国际化 store 和 provider
+* [firestorter](https://github.com/IjzerenHein/firestorter) 在 React 中使用 Firestorter，使用 MobX
 
 #### 模型库
 
