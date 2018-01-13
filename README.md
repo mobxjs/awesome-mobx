@@ -157,6 +157,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
   Using Google's language API and MobX (and
   [Part 2](https://school.shoutem.com/lectures/hacker-news-app-part-2-upvoting-commenting/))
 * [MobX for Application State Management](https://medium.com/@tylerwclark/mobx-for-application-state-management-7b33e35c4883)
+* [Building a React / Firestore App with zero effort and MobX](https://medium.com/@hrutjes/building-a-react-firestore-app-with-zero-effort-and-mobx-525df611eabf)
 
 #### Articles / blogs explaining the inner working of MobX
 
