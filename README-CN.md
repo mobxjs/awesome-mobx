@@ -437,6 +437,7 @@
   成工具
 * [mobx-react-intl](https://github.com/Sqooba/mobx-react-intl) 用于
   [react-intl](https://github.com/yahoo/react-intl) 的国际化 store 和 provider
+* [firestorter](https://github.com/IjzerenHein/firestorter) 在 React 中使用 Firestorter，使用 MobX
 
 #### 模型库
 
