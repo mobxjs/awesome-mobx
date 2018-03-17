@@ -158,6 +158,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
   [Part 2](https://school.shoutem.com/lectures/hacker-news-app-part-2-upvoting-commenting/))
 * [MobX for Application State Management](https://medium.com/@tylerwclark/mobx-for-application-state-management-7b33e35c4883)
 * [Building a React / Firestore App with zero effort and MobX](https://medium.com/@hrutjes/building-a-react-firestore-app-with-zero-effort-and-mobx-525df611eabf)
+* [Introduction to MobX 4 for React/Redux Developers](https://dev.to/swyx/introduction-to-mobx-4-for-reactredux-developers-3k07)
 
 #### Articles / blogs explaining the inner working of MobX
 
