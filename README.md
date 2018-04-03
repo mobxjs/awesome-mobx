@@ -479,6 +479,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
   specific data store
 * [mobx-model](https://github.com/ikido/mobx-model) Simplify mobx data stores
   that mimic backend models
+* [mobx-spine](https://github.com/CodeYellowBV/mobx-spine) MobX with support for models, relations and an external API
 
 ### Who is using MobX?
 
