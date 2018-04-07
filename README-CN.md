@@ -1,10 +1,10 @@
 ## Awesome MobX
 
+> 这是真棒列表的归档版本。 有关更新的版本，请参阅英文版。
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 很不错的 MobX 相关资源整合。
-
-[English](README.md) | 简体中文
 
 ### 贡献
 
