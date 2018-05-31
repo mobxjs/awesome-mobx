@@ -451,6 +451,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [mobx-react-inject](https://github.com/mass3ff3ct/mobx-react-inject)
   Implementation of store injection to React component with MobX, TypeScript and
   decorator metadata
+* [mobx-vue](https://github.com/mobxjs/mobx-vue) - Vue bindings for MobX
 * [vue-mobx](https://www.npmjs.com/package/vue-mobx) MobX bindings for Vue
 * [movue](https://github.com/nighca/movue) - MobX integration for Vue
 * [mobx-apollo](https://github.com/sonaye/mobx-apollo) A MobX and Apollo Client
@@ -479,6 +480,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [mobx-model](https://github.com/ikido/mobx-model) Simplify mobx data stores
   that mimic backend models
 * [mobx-spine](https://github.com/CodeYellowBV/mobx-spine) MobX with support for models, relations and an external API
+* [mmlpx](https://github.com/mmlpxjs/mmlpx) A generic mobx model layer paradigm which support di and time travelling out of box
 
 ### Who is using MobX?
 
