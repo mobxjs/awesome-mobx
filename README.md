@@ -414,6 +414,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [mobx-logger](https://github.com/winterbe/mobx-logger) Always know what is
   really going on in your MobX application by logging just the right
   information.
+* [mobx-task](https://github.com/jeffijoe/mobx-task) Makes async function state management in MobX fun.
   ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 * [mobx-react-matchmedia](https://github.com/foxhound87/mobx-react-matchmedia) A
   React HOC with mediaqueries for responsive layout.
