@@ -78,6 +78,10 @@ Your contributions and suggestions are heartily welcome. =^.^=
 
 ### Publications
 
+#### Books
+
+* [MobX Quick Start Guide](https://www.packtpub.com/web-development/mobx-quick-start-guide) (Packt) by [@pavanpodila](https://twitter.com/pavanpodila) and [@mweststrate](https://twitter.com/mweststrate)
+
 #### Videos
 
 * [Free Egghead.io course: Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
