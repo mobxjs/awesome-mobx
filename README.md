@@ -32,6 +32,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [Development Tools](#development-tools)
 * [FAQ](#faq)
 * [Publications](#publications)
+  * [Books](#books) 
   * [Videos](#videos)
   * [Tutorials](#tutorials)
   * [Articles / blogs explaining the inner working of MobX](#articles--blogs-explaining-the-inner-working-of-mobx)
