@@ -32,6 +32,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [Development Tools](#development-tools)
 * [FAQ](#faq)
 * [Publications](#publications)
+  * [Books](#books) 
   * [Videos](#videos)
   * [Tutorials](#tutorials)
   * [Articles / blogs explaining the inner working of MobX](#articles--blogs-explaining-the-inner-working-of-mobx)
@@ -77,6 +78,10 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [Importing store directly or pass as props?](https://github.com/mobxjs/mobx/issues/300)
 
 ### Publications
+
+#### Books
+
+* [MobX Quick Start Guide](https://www.packtpub.com/web-development/mobx-quick-start-guide) (Packt) by [@pavanpodila](https://twitter.com/pavanpodila) and [@mweststrate](https://twitter.com/mweststrate)
 
 #### Videos
 
