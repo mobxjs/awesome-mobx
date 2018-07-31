@@ -328,6 +328,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
   [GitHub](https://github.com/jsappme/react-native-firebase-starter))
 * [Architecture for a very light MobX project](https://github.com/danieldunderfelt/mobx-app)
 * [Flex editor](https://github.com/limichange/flex-editor)
+* [Nested task list prototype built with React + MobX and Material-ui](https://github.com/justinhaaheim/nested-task-list-mobx-react)
 
 #### Code example projects on codesandbox.io (or similar)
 
