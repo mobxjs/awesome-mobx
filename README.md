@@ -377,6 +377,9 @@ Your contributions and suggestions are heartily welcome. =^.^=
   React MobX React-Router 4 Boilerplate
 * [react-native-mobx-boilerplate](https://github.com/mjyoung/react-native-mobx-boilerplate)
   React Native MobX boilerplate using React Navigation.
+* [CRA + decorators support + Material-ui (2018)](https://github.com/BlazJurisic/ketchup)
+  Mobx + React + Create-React-App + Decorators Support
+  
 
 ### Related projects and utilities
 
