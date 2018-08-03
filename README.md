@@ -350,7 +350,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [React + React Router 4 + MobX + i18n](https://github.com/alexvcasillas/react-mobx-router)
   React Create App with React Router and MobX and Internationalization
 * [mobx-starter](https://github.com/nightwolfz/mobx-starter): Starting base for
-  an mobx react project with optional isomorphism. MongoDB auth & sessions, hot
+  a mobx react project with optional isomorphism. MongoDB auth & sessions, hot
   reload, react-router
   ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 * [React, React-Router 4, MobX and Webpack 2-boilerplate with async routes](https://github.com/mhaagens/react-mobx-react-router4-boilerplate)
