@@ -329,6 +329,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [Architecture for a very light MobX project](https://github.com/danieldunderfelt/mobx-app)
 * [Flex editor](https://github.com/limichange/flex-editor)
 * [Nested task list prototype built with React + MobX and Material-ui](https://github.com/justinhaaheim/nested-task-list-mobx-react)
+* [Frontend only: MobX + create-react-app + Unsplash API](https://github.com/nahueld/portfolia)
 
 #### Code example projects on codesandbox.io (or similar)
 
