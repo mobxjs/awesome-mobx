@@ -281,7 +281,6 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [PICSrush](http://picsrush.com/app/)
 
 #### Example projects
-
 * [React MobX RealWorld example app](https://github.com/gothinkster/react-mobx-realworld-example-app)
   ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 * [Simple ES5 MobX examples](https://github.com/mattruby/mobx-examples) Bite
@@ -330,6 +329,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [Flex editor](https://github.com/limichange/flex-editor)
 * [Nested task list prototype built with React + MobX and Material-ui](https://github.com/justinhaaheim/nested-task-list-mobx-react)
 * [Frontend only: MobX + create-react-app + Unsplash API](https://github.com/nahueld/portfolia)
+* [A multiplayer card game built using socket.io, nodejs, typescript, react, mobx](https://github.com/shanmugharajk/react-card-game)
 
 #### Code example projects on codesandbox.io (or similar)
 
