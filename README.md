@@ -390,6 +390,8 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [mobx-react-form](https://foxhound87.github.io/mobx-react-form) Build forms
   and validate them using json-schema rules
   ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
+* [reactive-mobx-form](https://github.com/vict-shevchenko/reactive-mobx-form) Simple and scalable form management library.
+  [Demo](https://vict-shevchenko.github.io/reactive-mobx-form/#/examples/simple/SimpleForm)
 * [mobx-form-store](https://github.com/alexhisen/mobx-form-store) +
   [mobx-schema-form](https://github.com/alexhisen/mobx-schema-form)
   Loosely-coupled components for managing, rendering and validating forms in
