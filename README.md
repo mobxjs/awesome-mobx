@@ -85,13 +85,13 @@ Your contributions and suggestions are heartily welcome. =^.^=
 
 #### Videos
 
-* [MobX: Performance and Sanity - Adam Klein @ ReactNYC](https://www.youtube.com/watch?v=0GF67B5H3dc)
-  ([slides](https://www.slideshare.net/500Tech/mobx-internals))
 * [Free Egghead.io course: Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
 * LearnCode.academy MobX tutorial
   [Part I: MobX + React is AWESOME (7m)](https://www.youtube.com/watch?v=_q50BXqkAfI)
   [Part II: Computed Values and Nested/Referenced Observables (12m.)](https://www.youtube.com/watch?v=nYvNqKrl69s)
 * [React Foundation + MobX Video Series from Codemy.net (youtube playlist)](https://www.youtube.com/playlist?list=PLjQo0sojbbxU6Yl9l-38gOyeQYjqXefq7)
+* [MobX: Performance and Sanity - Adam Klein @ ReactNYC](https://www.youtube.com/watch?v=0GF67B5H3dc)
+  ([slides](https://www.slideshare.net/500Tech/mobx-internals))
 * [ReactNext 2016: Real World MobX](https://www.youtube.com/watch?v=Aws40KOx90U) -
   40m
   [slides](https://docs.google.com/presentation/d/1DrI6Hc2xIPTLBkfNH8YczOcPXQTOaCIcDESdyVfG_bE/edit?usp=sharing)
@@ -276,6 +276,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
   the Vcash crypto currency
 * [Streamflow](https://github.com/hawkins/streamflow) - Electron app for
   improving the Twitch viewer experience
+* [Angular Tree Component](https://github.com/500tech/angular-tree-component) - Angular Tree Component using MobX for managing the tree state
 
 #### Real-life examples
 
