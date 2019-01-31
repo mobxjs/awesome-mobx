@@ -85,6 +85,8 @@ Your contributions and suggestions are heartily welcome. =^.^=
 
 #### Videos
 
+* [MobX: Performance and Sanity - Adam Klein @ ReactNYC](https://www.youtube.com/watch?v=0GF67B5H3dc)
+  ([slides](https://www.slideshare.net/500Tech/mobx-internals))
 * [Free Egghead.io course: Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
 * LearnCode.academy MobX tutorial
   [Part I: MobX + React is AWESOME (7m)](https://www.youtube.com/watch?v=_q50BXqkAfI)
