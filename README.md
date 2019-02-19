@@ -388,7 +388,6 @@ Your contributions and suggestions are heartily welcome. =^.^=
 ### Related projects and utilities
 
 * [MobX react bindings](https://github.com/mobxjs/mobx-react)
-* [MobX remotedev: Use the Redux Devtools with MobX](https://github.com/zalmoxisus/mobx-remotedev)
 * [MobX inferno bindings](https://www.npmjs.com/package/inferno-mobx)
 * [MobX preact bindings](https://github.com/philmander/mobx-preact)
 * [mobx-react-form](https://foxhound87.github.io/mobx-react-form) Build forms
