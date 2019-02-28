@@ -278,12 +278,14 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [Streamflow](https://github.com/hawkins/streamflow) - Electron app for
   improving the Twitch viewer experience
 * [Angular Tree Component](https://github.com/500tech/angular-tree-component) - Angular Tree Component using MobX for managing the tree state
+* [SaaS Boilerplate](https://github.com/async-labs/saas) - Open source boilerplate app to build your own SaaS product.
 
 #### Real-life examples
 
 * [react-transmission](https://github.com/fcsonline/react-transmission)
 * [Lionshare](https://github.com/lionsharecapital)
 * [PICSrush](http://picsrush.com/app/)
+* [Async](https://async-await.com/) - Team communication app for deep work.
 
 #### Example projects
 * [React MobX RealWorld example app](https://github.com/gothinkster/react-mobx-realworld-example-app)
