@@ -66,7 +66,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 ### Development Tools
 
 * [MobX Chrome Devtools](https://chrome.google.com/webstore/detail/mobx-developer-tools/pfgnfdagidkfgccljigdamigbcnndkod?hl=en)
-* [Mobx-React-Devtools](https://github.com/mobxjs/mobx-react-devtools)
+* [Mobx-React-Devtools (deprecated)](https://github.com/mobxjs/mobx-react-devtools)
 * [MobX Formatters](https://github.com/motion/mobx-formatters)
 * [React Ecosystem Snippets](https://marketplace.visualstudio.com/items?itemName=adamrackis.react-ecosystem-snippets)
   with MobX and TypeScript included
