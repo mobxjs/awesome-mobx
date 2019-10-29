@@ -504,6 +504,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
   that mimic backend models
 * [mobx-spine](https://github.com/CodeYellowBV/mobx-spine) MobX with support for models, relations and an external API
 * [mmlpx](https://github.com/mmlpxjs/mmlpx) A generic mobx model layer paradigm which support di and time travelling out of box
+* [mobx-mc](https://github.com/rakenapp/mobx-mc) Backbone inspired model + collection library for Mobx
 
 ### Who is using MobX?
 
