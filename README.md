@@ -484,6 +484,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
   [react-intl](https://github.com/yahoo/react-intl)
 * [firestorter](https://github.com/IjzerenHein/firestorter) Use Firestore
   in React with zero effort, using MobX
+* [mobx-collection-watch](https://github.com/ivandotv/mobx-collection-watch) Watch and respond to additions, removals and updates from mobx arrays and maps.
 
 #### Model libraries
 
