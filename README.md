@@ -446,6 +446,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
   with MobX
 * [mobx-persist](https://github.com/pinqy520/mobx-persist) create and persist
   mobx stores
+* [mobx-persist-store](https://www.npmjs.com/package/mobx-persist-store) persist and rehydrate observable properties in mobx stores
 * [gwt-mobx](https://github.com/GWTReact/gwt-mobx) GWT Java bindings for MobX
 * [mobx-app](https://github.com/danieldunderfelt/mobx-app) A functional
   structure for mobx
