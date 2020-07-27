@@ -167,6 +167,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [Building a React / Firestore App with zero effort and MobX](https://medium.com/@hrutjes/building-a-react-firestore-app-with-zero-effort-and-mobx-525df611eabf)
 * [Introduction to MobX 4 for React/Redux Developers](https://dev.to/swyx/introduction-to-mobx-4-for-reactredux-developers-3k07)
 * [Getting started with MOBX 5 and TypeScript 3, React 16.6](https://nealbuerger.com/2018/11/getting-started-with-mobx5-react16-and-typescript3.html)
+* [React Hooks + MobX TodoList](https://levelup.gitconnected.com/react-hooks-mobx-todolist-c138eb4f3d04)
 
 #### Articles / blogs explaining the inner working of MobX
 
@@ -223,6 +224,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [Realtime with React and Rails](https://blog.codeship.com/realtime-with-react-and-rails/)
 * [Cooking a Strudel with React & MobX](https://medium.com/dazn-tech/cooking-a-strudel-with-react-mobx-c84bffcaf6d)
 * [Introduction to Redux and MobX](https://medium.com/@guptagaruda/introduction-to-redux-and-mobx-e6fa98b6479)
+* [Mobx Tips And Pitfalls - 2020](https://levelup.gitconnected.com/mobx-tips-and-pitfalls-92e635108653)
 
 #### Case studies
 
