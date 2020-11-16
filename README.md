@@ -489,6 +489,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [firestorter](https://github.com/IjzerenHein/firestorter) Use Firestore
   in React with zero effort, using MobX
 * [mobx-collection-watch](https://github.com/ivandotv/mobx-collection-watch) Watch and respond to additions, removals and updates from mobx arrays and maps.
+* [mobx-shallow-undo](https://github.com/httptoolkit/mobx-shallow-undo) Zero-config shallow undo/redo for any mobx observable
 
 #### Model libraries
 
