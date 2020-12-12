@@ -424,8 +424,6 @@ Your contributions and suggestions are heartily welcome. =^.^=
   apps
 * [mobx-firebase-store](https://github.com/nyura123/mobx-firebase-store)
   Subscribe MobX observables to firebase
-* [mobx-store](https://github.com/AriaFallah/mobx-store) A lowdb inspired data
-  store with declarative querying, observable state, and easy undo/redo.
 * [mobx-stored](https://github.com/capaj/mobx-stored) Mobx observables
   persistent across browser sessions
 * [mobx-reactor](https://github.com/amsb/mobx-reactor) Connect MobX data stores
