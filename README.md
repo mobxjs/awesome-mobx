@@ -166,7 +166,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [MobX for Application State Management](https://medium.com/@tylerwclark/mobx-for-application-state-management-7b33e35c4883)
 * [Building a React / Firestore App with zero effort and MobX](https://medium.com/@hrutjes/building-a-react-firestore-app-with-zero-effort-and-mobx-525df611eabf)
 * [Introduction to MobX 4 for React/Redux Developers](https://dev.to/swyx/introduction-to-mobx-4-for-reactredux-developers-3k07)
-* [Getting started with MOBX 5 and TypeScript 3, React 16.6](https://nealbuerger.com/2018/11/getting-started-with-mobx5-react16-and-typescript3.html)
+* [Getting started with MOBX 5 and TypeScript 3, React 16.6](https://www.nealbuerger.com/tech/typescript/2018-11-11-getting-started-with-mobx5-react16-and-typescript3/)
 * [React Hooks + MobX TodoList](https://levelup.gitconnected.com/react-hooks-mobx-todolist-c138eb4f3d04)
 
 #### Articles / blogs explaining the inner working of MobX
