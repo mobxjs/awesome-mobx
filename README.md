@@ -17,6 +17,8 @@ Your contributions and suggestions are heartily welcome. =^.^=
   * Or,
     [with ejecting](https://swizec.com/blog/mobx-with-create-react-app/swizec/7158)
     and adjusting config
+* MobX 6 starter - with mobx-persist-store & without decorators
+  [Github Source](https://github.com/idanlevi1/mobx6-with-persist-starter) / [Code Sendbox](https://codesandbox.io/s/mobx6-with-persist-starter-uq818)
 * [Useful Real-life examples](#real-life-examples)
 * MobX TodoList sandbox for bug reporting
   [![Edit Simple MobX TodoList](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/2vmzpM0wK)
