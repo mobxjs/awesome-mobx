@@ -287,7 +287,6 @@ Your contributions and suggestions are heartily welcome. =^.^=
 
 * [react-transmission](https://github.com/fcsonline/react-transmission)
 * [Lionshare](https://github.com/lionsharecapital)
-* [PICSrush](http://picsrush.com/app/)
 * [Async](https://async-await.com/) - Team communication app for deep work.
 * [Untold RPG](https://untold-game.com/) - A text-based game for iOS and Android (uses Mobx with React Native)
 
@@ -382,7 +381,6 @@ Your contributions and suggestions are heartily welcome. =^.^=
   structure of folders for larger apps.
 * [ng2-mobx](https://github.com/500tech/ng2-mobx) MobX connector for Angular
   (aka Angular 2+) ([npm](https://www.npmjs.com/package/ng2-mobx))
-* [starhack.it](http://www.starhack.it) A full stack starter kit
 * [cra-mobx-reactrouter](https://github.com/timarney/cra-mobx-reactrouter) Craft
   Template - MobX + React Router
 * [react-mobx-react-router4-boilerplate](https://github.com/mhaagens/react-mobx-react-router4-boilerplate)
