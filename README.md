@@ -17,6 +17,8 @@ Your contributions and suggestions are heartily welcome. =^.^=
   * Or,
     [with ejecting](https://swizec.com/blog/mobx-with-create-react-app/swizec/7158)
     and adjusting config
+* MobX 6 starter - with mobx-persist-store & without decorators
+  [Github Source](https://github.com/idanlevi1/mobx6-with-persist-starter) / [Code Sendbox](https://codesandbox.io/s/mobx6-with-persist-starter-uq818)
 * [Useful Real-life examples](#real-life-examples)
 * MobX TodoList sandbox for bug reporting
   [![Edit Simple MobX TodoList](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/2vmzpM0wK)
@@ -287,7 +289,6 @@ Your contributions and suggestions are heartily welcome. =^.^=
 
 * [react-transmission](https://github.com/fcsonline/react-transmission)
 * [Lionshare](https://github.com/lionsharecapital)
-* [PICSrush](http://picsrush.com/app/)
 * [Async](https://async-await.com/) - Team communication app for deep work.
 * [Untold RPG](https://untold-game.com/) - A text-based game for iOS and Android (uses Mobx with React Native)
 
@@ -382,7 +383,6 @@ Your contributions and suggestions are heartily welcome. =^.^=
   structure of folders for larger apps.
 * [ng2-mobx](https://github.com/500tech/ng2-mobx) MobX connector for Angular
   (aka Angular 2+) ([npm](https://www.npmjs.com/package/ng2-mobx))
-* [starhack.it](http://www.starhack.it) A full stack starter kit
 * [cra-mobx-reactrouter](https://github.com/timarney/cra-mobx-reactrouter) Craft
   Template - MobX + React Router
 * [react-mobx-react-router4-boilerplate](https://github.com/mhaagens/react-mobx-react-router4-boilerplate)
