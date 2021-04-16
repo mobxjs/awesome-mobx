@@ -227,6 +227,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [Cooking a Strudel with React & MobX](https://medium.com/dazn-tech/cooking-a-strudel-with-react-mobx-c84bffcaf6d)
 * [Introduction to Redux and MobX](https://medium.com/@guptagaruda/introduction-to-redux-and-mobx-e6fa98b6479)
 * [Mobx Tips And Pitfalls - 2020](https://levelup.gitconnected.com/mobx-tips-and-pitfalls-92e635108653)
+* [React, TypeScript & Mobx](https://shevchenkonik.com/blog/react-typescript-mobx)
 
 #### Case studies
 
