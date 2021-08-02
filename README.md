@@ -170,6 +170,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [Introduction to MobX 4 for React/Redux Developers](https://dev.to/swyx/introduction-to-mobx-4-for-reactredux-developers-3k07)
 * [Getting started with MOBX 5 and TypeScript 3, React 16.6](https://www.nealbuerger.com/tech/typescript/2018-11-11-getting-started-with-mobx5-react16-and-typescript3/)
 * [React Hooks + MobX TodoList](https://levelup.gitconnected.com/react-hooks-mobx-todolist-c138eb4f3d04)
+* [MobX Architecture in Production](https://esuca.hashnode.dev/mobx-architecture-in-production)
 
 #### Articles / blogs explaining the inner working of MobX
 
