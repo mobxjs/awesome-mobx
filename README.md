@@ -416,6 +416,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
   and react-bootstrap.
 * [mobx-binder](https://github.com/metro-nom/mobx-binder) Convenient way of handling form state and validation 
   in a React + MobX web app
+* [dumba](https://github.com/ivandotv/dumba) Small library (2.4kb) for working with forms. [Demo](https://dumba-demo.netlify.app/)
 * [Form abstraction in one fiddle](https://jsfiddle.net/darthapo/k63ujjsp/)
 * [serializr](https://github.com/mobxjs/serializr) Small library to
   (de)serialize complex object graphs to JSON.
