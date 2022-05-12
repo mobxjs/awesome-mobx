@@ -145,7 +145,6 @@ Your contributions and suggestions are heartily welcome. =^.^=
   ![staff pick](https://img.shields.io/badge/-MobX%20Staff%20Pick-orange.svg)
 * [How to remove experimentalDecorators warning in VSCode](https://ihatetomatoes.net/how-to-remove-experimentaldecorators-warning-in-vscode)
 * [React State Management with MobX](https://www.codemy.net/posts/react-state-management-with-mobx)
-* [React + MobX + YAWP!](http://yawp.io/blog/2017/01/31/react-mobx-yawp)
 * [Adding MobX to a vanilla React project](https://swizec.com/blog/livecoding-25-adding-mobx-vanilla-react-project/swizec/7170?utm_content=buffer92a0d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
   A recap of a livecoding session in which the author explains the process of
   adding MobX to a vanilla React project
