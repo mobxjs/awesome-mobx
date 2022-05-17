@@ -492,6 +492,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
   in React with zero effort, using MobX
 * [mobx-collection-watch](https://github.com/ivandotv/mobx-collection-watch) Watch and respond to additions, removals and updates from mobx arrays and maps.
 * [mobx-shallow-undo](https://github.com/httptoolkit/mobx-shallow-undo) Zero-config shallow undo/redo for any mobx observable
+* [mobx-async-toolkit](https://github.com/alan2207/mobx-async-toolkit) Toolkit for handling async operations in MobX stores
 
 #### Model libraries
 
