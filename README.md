@@ -514,6 +514,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [mmlpx](https://github.com/mmlpxjs/mmlpx) A generic mobx model layer paradigm which support di and time travelling out of box
 * [mobx-mc](https://github.com/rakenapp/mobx-mc) Backbone inspired model + collection library for Mobx
 * [mobx-keystone](https://github.com/xaviergonz/mobx-keystone) Opinionated, transactional, MobX powered state container with first-class Typescript support
+* [fuerte](https://github.com/ivandotv/fuerte) Collection - Model paradigm library, inspired by the best parts of Backbone.js and Ember.js
 
 ### Who is using MobX?
 
