@@ -514,6 +514,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [mmlpx](https://github.com/mmlpxjs/mmlpx) A generic mobx model layer paradigm which support di and time travelling out of box
 * [mobx-mc](https://github.com/rakenapp/mobx-mc) Backbone inspired model + collection library for Mobx
 * [mobx-keystone](https://github.com/xaviergonz/mobx-keystone) Opinionated, transactional, MobX powered state container with first-class Typescript support
+* [mobx-react-viewmodel](https://github.com/Iverson/mobx-react-viewmodel) Lightweight utils for using stateful, reactive Mobx view-models in React components
 
 ### Who is using MobX?
 
