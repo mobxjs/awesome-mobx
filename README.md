@@ -76,6 +76,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [Delorean](https://github.com/BrascoJS/delorean), A MobX-React Time Travel
   Debugger
 * [Mobx-RemoteDev](https://github.com/zalmoxisus/mobx-remotedev), MobX Time Travel Debugging using the Redux Devtools Extension
+* [Friendly MobX Console Formatter](https://github.com/zheeeng/friendly-mobx-console-formatter), Friendly MobX Console Formatter.
 
 ### FAQ
 
