@@ -34,7 +34,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [Development Tools](#development-tools)
 * [FAQ](#faq)
 * [Publications](#publications)
-  * [Books](#books) 
+  * [Books](#books)
   * [Videos](#videos)
   * [Tutorials](#tutorials)
   * [Articles / blogs explaining the inner working of MobX](#articles--blogs-explaining-the-inner-working-of-mobx)
@@ -344,6 +344,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
 * [Nested task list prototype built with React + MobX and Material-ui](https://github.com/justinhaaheim/nested-task-list-mobx-react)
 * [Frontend only: MobX + create-react-app + Unsplash API](https://github.com/nahueld/portfolia)
 * [A multiplayer card game built using socket.io, nodejs, typescript, react, mobx](https://github.com/shanmugharajk/react-card-game)
+* [React+Mobx application with Clean Architecture applied](https://github.com/harunou/react-mobx-clean-architecture)
 
 #### Code example projects on codesandbox.io (or similar)
 
@@ -414,7 +415,7 @@ Your contributions and suggestions are heartily welcome. =^.^=
   MobX-based apps
 * [mobx-input](https://github.com/tomaash/mobx-input) Form validation for MobX
   and react-bootstrap.
-* [mobx-binder](https://github.com/metro-nom/mobx-binder) Convenient way of handling form state and validation 
+* [mobx-binder](https://github.com/metro-nom/mobx-binder) Convenient way of handling form state and validation
   in a React + MobX web app
 * [dumba](https://github.com/ivandotv/dumba) Small library (2.4kb) for working with forms. [Demo](https://dumba-demo.netlify.app/)
 * [Form abstraction in one fiddle](https://jsfiddle.net/darthapo/k63ujjsp/)
